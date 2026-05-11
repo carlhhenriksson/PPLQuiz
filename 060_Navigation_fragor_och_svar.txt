@@ -1,0 +1,602 @@
+060 Navigation
+==============
+
+1. [061 01 01 01] Solsystemet - nivå 1
+Fråga: Vad är huvudorsaken till årstiderna?
+Rätt svar: Jordaxelns lutning i kombination med jordens bana runt solen
+Fel svar: Jordens avstånd till solen är enda orsaken | Månens läge påverkar tidvatten och därmed årstidernas längd | Jordens magnetfält ändrar solhöjdens fördelning över året
+Förklaring: Jordaxelns lutning ändrar solhöjd och dagslängd.
+
+2. [061 01 01 01] Solsystemet - nivå 1
+Fråga: Vad orsakar dygnsvariationer i solens läge?
+Rätt svar: Jordens rotation runt sin egen axel
+Fel svar: Jordens magnetiska variation | Månens bana runt jorden | Solens rotation runt jorden
+Förklaring: Jordens rotation ger dag och natt.
+
+3. [061 01 02 01] Jorden - nivå 2
+Fråga: Vilket alternativ är mest fullständigt korrekt om storcirkel?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Planet genom cirkeln går genom jordens centrum | En storcirkel ger kortaste vägen mellan två punkter på en sfär | Ekvatorn och meridianpar är exempel på storcirklar
+Förklaring: Alla tre påståenden är korrekta om storcirklar.
+
+4. [061 01 02 01] Jorden - nivå 2
+Fråga: Vad är en loxodrom?
+Rätt svar: En linje som skär alla meridianer med samma vinkel
+Fel svar: Den kortaste vägen mellan två punkter på jorden | En storcirkel som i regel går genom båda polerna | En linje med konstant kurs som främst sammanfaller med ekvatorn vid ost-västlig kurs
+Förklaring: Loxodrom används för konstant kurs på Mercatorprojektion.
+
+5. [061 01 02 01] Jorden - nivå 2
+Fråga: Vad är en meridian?
+Rätt svar: En nord-sydlig längdlinje, i praktiken en halv storcirkel mellan polerna
+Fel svar: En parallell med ekvatorn | En linje med konstant vind | En höjdkurva
+Förklaring: Meridianer används för longitud och går från pol till pol; två motsatta meridianer bildar en hel storcirkel.
+
+6. [061 01 02 03] Latitud - nivå 2
+Fråga: Vad anger latitud?
+Rätt svar: Vinkelavstånd norr eller söder om ekvatorn
+Fel svar: Vinkelavstånd öster eller väster om Greenwich | Vinkelavstånd från magnetiska ekvatorn | Avstånd längs meridian till närmaste referensparallell
+Förklaring: Latitud mäts från 0 grader vid ekvatorn till 90 grader vid polerna.
+
+7. [061 01 02 03] Latitud - nivå 2
+Fråga: Vilket alternativ är mest fullständigt korrekt om 1 minut latitud?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Det motsvarar ungefär 1 nautisk mil | Sambandet gäller längs en meridian | Det används praktiskt vid avståndsbedömning på flygkartor
+Förklaring: En minut latitud är en bågminut på meridianen och motsvarar praktiskt 1 NM.
+
+8. [061 01 02 04] Longitud - nivå 2
+Fråga: Vad anger longitud?
+Rätt svar: Vinkelavstånd öster eller väster om Greenwichmeridianen
+Fel svar: Vinkelavstånd norr eller söder om ekvatorn | Avstånd i nautiska mil från närmaste meridian | Vinkel mellan färdlinje och magnetisk nord
+Förklaring: Longitud mäts öst eller väst från Greenwich.
+
+9. [061 01 02 05] Koordinater - nivå 3
+Fråga: Vilket alternativ är mest fullständigt korrekt om positionsangivelse med latitud och longitud?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Latitud anges normalt först | Longitud anges därefter | N/S respektive E/W eller motsvarande tecken måste framgå
+Förklaring: Alla tre punkter behövs för en tydlig positionsangivelse.
+
+10. [061 01 03 01] Tid - nivå 1
+Fråga: Vad är soltid?
+Rätt svar: Tid baserad på solens skenbara läge på himlen
+Fel svar: Samma sak som UTC överallt | Tid baserad på lokal meridian men korrigerad med magnetisk variation | Tid som sänds via transponder Mode S
+Förklaring: Soltid varierar med longitud.
+
+11. [061 01 03 02] Tid - nivå 3
+Fråga: Sverige har sommartid UTC+2. Vad är 14:30 lokal tid i UTC?
+Rätt svar: 12:30 UTC
+Fel svar: 13:30 UTC | 14:30 UTC | 16:30 UTC
+Förklaring: Dra av två timmar från svensk sommartid.
+
+12. [061 01 03 03] Tid - nivå 1
+Fråga: Vad betyder LMT?
+Rätt svar: Local Mean Time, lokal medeltid beroende på longitud
+Fel svar: Landing Minimum Time | Local Magnetic Track | Last Meteorological Time
+Förklaring: LMT är kopplad till lokal meridian.
+
+13. [061 01 03 04] Tid - nivå 2
+Fråga: Vad är standardtid?
+Rätt svar: Zontid justerad för landgränser och politiska beslut
+Fel svar: Soltid ungefär för varje longitud | I regel samma som UTC | Tid baserad på flygnivå
+Förklaring: Zontid bygger på 24 zoner om 15 grader, men standardtid följer ofta landsgränser och praktiska/politiska beslut.
+
+14. [061 01 03 05] Tid - nivå 1
+Fråga: Vad händer när man passerar internationella datumlinjen?
+Rätt svar: Datum ändras ett dygn
+Fel svar: UTC byter datumzon men tiden räknas om med lokal zontid | Magnetisk nord byter plats | Longitud byter tecken men latituden behålls
+Förklaring: Datumlinjen hanterar dygnsbyte runt jordklotet.
+
+15. [061 01 03 06] Soluppgång, solnedgång och gryning/skymning - nivå 2
+Fråga: När börjar gryning enligt civil twilight-definitionen?
+Rätt svar: När solens centrum är 6 grader under horisonten på morgonen
+Fel svar: När hela solskivan är ovanför horisonten | När solen passerar lokal meridian | När UTC och lokal tid är lika
+Förklaring: Gryning/skymning avgränsas av solens centrum 6 grader under horisonten.
+
+16. [061 01 04 00] Riktningar - nivå 3
+Fråga: Hur delas horisonten normalt in för navigation?
+Rätt svar: I 360 grader räknat medurs från nord
+Fel svar: I 100 delar från syd | I nautiska mil från ekvatorn men uttryckt som riktning | I flygnivåer när kursen kopplas till höjdregler
+Förklaring: Kurs och bäring anges i grader.
+
+17. [061 01 04 01] True North - nivå 3
+Fråga: Vad är True North?
+Rätt svar: Riktning mot den geografiska nordpolen
+Fel svar: Riktning mot magnetiska nordpolen | Kompassnord efter deviation | Flygplanets nosriktning korrigerad för deviation
+Förklaring: True North är geografisk referens.
+
+18. [061 01 04 01] Track - nivå 3
+Fråga: Vad är True Track?
+Rätt svar: Färdlinjens riktning över marken relativt geografisk nord
+Fel svar: Flygplanets nosriktning relativt kompassnord | Vindens riktning från station | Relativ bäring till trafik
+Förklaring: Track är vägen över marken.
+
+19. [061 01 04 02] Magnetic North - nivå 3
+Fråga: Vad är Magnetic North?
+Rätt svar: Den lokala magnetiska nordriktningen, det horisontella jordmagnetiska fältets riktning
+Fel svar: Geografisk nordpol | Kompassnord efter deviation | Vindens nordkomponent
+Förklaring: Magnetisk nordriktning bestäms av jordmagnetfältets horisontella komposant och sammanfaller inte med geografisk nord.
+
+20. [061 01 04 02] Variation - nivå 3
+Fråga: Vad är en isogon?
+Rätt svar: Linje som förbinder platser med samma magnetiska variation
+Fel svar: Linje med samma lufttryck | Linje med samma temperatur | Linje med samma höjd
+Förklaring: Isogoner används för magnetisk variation på kartor.
+
+21. [061 01 04 02] Variation - nivå 3
+Fråga: Vad är agonisk linje?
+Rätt svar: Linje där magnetisk variation är noll
+Fel svar: Linje där deviation är maximal | Linje vid ekvatorn | Linje med konstant vind
+Förklaring: På agonisk linje sammanfaller true och magnetic nord.
+
+22. [061 01 04 03] Deviation - nivå 2
+Fråga: Vilket alternativ är mest fullständigt korrekt om deviation?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Den orsakas av magnetiska fält i luftfartyget | Den påverkar kompassens visning | Den varierar med heading och hanteras med deviationstabell eller kompasskort
+Förklaring: Deviation är ett luftfartygsbundet kompassfel och beror på flygplanets magnetiska påverkan.
+
+23. [061 01 04 04] Jordens magnetfält - nivå 2
+Fråga: Vad är inklination?
+Rätt svar: Det jordmagnetiska fältets lutning mot horisontalplanet
+Fel svar: Skillnaden mellan QNH och QFE | Skillnaden mellan CAS och TAS | Bäring från VOR
+Förklaring: Inklination betyder att magnetfältet inte är horisontellt utom nära den magnetiska ekvatorn.
+
+24. [061 01 04 04] Kursomvandling - nivå 3
+Fråga: Variation 5E och true heading 100. Vad blir magnetic heading?
+Rätt svar: 095 M
+Fel svar: 105 M | 095 T | 100 M
+Förklaring: Ostlig variation subtraheras från true till magnetic.
+
+25. [061 01 05 01] Distans - nivå 3
+Fråga: Vad betyder NM?
+Rätt svar: Nautisk mil
+Fel svar: Normal meter | Navigerad minut | North magnetic
+Förklaring: 1 NM är 1852 meter och kopplas till latitudminut.
+
+26. [061 01 05 02] Distans - nivå 3
+Fråga: Hur många meter är 1 nautisk mil?
+Rätt svar: 1852 meter
+Fel svar: 1609 meter | 1852 fot | 1000 meter
+Förklaring: 1 NM är internationellt definierad som 1852 m.
+
+27. [061 01 05 03] Distans - nivå 3
+Fråga: Hur många NM är 10 minuter latitud?
+Rätt svar: 10 NM
+Fel svar: 1 NM | 60 NM | 100 NM
+Förklaring: 1 minut latitud motsvarar 1 NM.
+
+28. [061 02 01 00] Magnetism - nivå 2
+Fråga: Vad är variation?
+Rätt svar: Vinkeln mellan geografisk nord och magnetisk nord
+Fel svar: Kompassfel från flygplanet | Skillnaden mellan IAS och CAS | Vinkeln mellan true track och vindens riktning
+Förklaring: Variation ändras med plats och tid.
+
+29. [061 02 02 00] Magnetism i luftfartyg - nivå 2
+Fråga: Varför ska magnetiska föremål hållas borta från kompassen?
+Rätt svar: De kan skapa deviation och fel kompassvisning
+Fel svar: De påverkar höjdreferensen genom lokalt magnetfält | De stör VOR-indikeringen genom magnetfältet i instrumentpanelen | De påverkar främst GPS och elektriska instrument men inte kompassen
+Förklaring: Magnetiska föremål nära kompassen stör jordfältet.
+
+30. [061 03 01 01] Kartor - nivå 2
+Fråga: Vad kännetecknar Mercators projektion?
+Rätt svar: Loxodromer blir raka linjer
+Fel svar: Storcirklar blir i regel raka | Skalan är lika över hela kartan | Den används bäst nära polerna där meridianerna möts tätt
+Förklaring: Mercator är praktisk för konstant kurs.
+
+31. [061 03 01 02] Kartor - nivå 2
+Fråga: Vad kännetecknar Lamberts projektion?
+Rätt svar: Den passar bra för flygkartor på medelbreddgrader
+Fel svar: Den saknar standardparalleller | Den gör alla loxodromer raka | Den fungerar bäst vid ekvatorn eftersom standardparallellerna saknas
+Förklaring: Lambert används ofta för flygkartor i Europa.
+
+32. [061 03 02 01] Mercators projektion - nivå 2
+Fråga: Hur visas loxodromer på en Mercatorkarta?
+Rätt svar: Som räta linjer
+Fel svar: Som cirklar runt polerna | I regel som bågar som böjer mot ekvatorn | Som brutna linjer som byter riktning vid varje meridian
+Förklaring: Mercator är vinkelriktig och gör konstantkurslinjer, loxodromer, raka.
+
+33. [061 03 02 02] Lamberts projektion - nivå 3
+Fråga: Vilken egenskap har storcirklar på en Lambertkarta för svenska flygavstånd?
+Rätt svar: De kan normalt behandlas som nästan räta linjer
+Fel svar: De blir i regel spiraler mot polerna | De kan sällan användas för navigation | De visas i regel som parallella med ekvatorn
+Förklaring: Lambert lämpar sig väl för flygkartor på medelbreddgrader.
+
+34. [061 03 03 00] Användning av flygkarta - nivå 3
+Fråga: Vad avgör om en karta är lämplig för en viss VFR-flygning?
+Rätt svar: Skala, aktualitet, täckning, höjd- och luftrumsinformation samt läsbarhet
+Fel svar: Främst kartans färgskala | När kartan har konstant skala längs hela rutnätet | När nollmeridianen och ekvatorn båda finns på kartbladet
+Förklaring: En flygkarta ska passa sträckans detaljeringsbehov och innehålla relevant information.
+
+35. [061 03 03 01] Positionsangivelse - nivå 3
+Fråga: Hur anges en position normalt i latitud och longitud?
+Rätt svar: Latitud först med N/S, därefter longitud med E/W
+Fel svar: Longitud först med E/W, därefter latitud med N/S | I decimalgrader utan N/S eller E/W när kartdatum är känt | Som magnetisk kurs och avstånd från ekvatorn
+Förklaring: Standardordningen är latitud före longitud för att undvika förväxling.
+
+36. [061 03 03 02] Skala - nivå 3
+Fråga: Vad betyder skalan 1:500 000?
+Rätt svar: 1 cm på kartan motsvarar 5 km i verkligheten
+Fel svar: 1 cm på kartan motsvarar 500 m i verkligheten | 1 cm på kartan motsvarar 50 km i verkligheten | 1 mm på kartan motsvarar 5 km i verkligheten
+Förklaring: 500 000 cm är 5 km.
+
+37. [061 03 03 02] Höjdkurvor - nivå 3
+Fråga: Vad visar höjdkurvor på en karta?
+Rätt svar: Punkter med samma höjd över referensnivå
+Fel svar: Punkter med samma vind | Punkter med samma QNH | Punkter med samma magnetisk kurs
+Förklaring: Täta höjdkurvor indikerar brant terräng.
+
+38. [061 03 03 03] Kartsymboler - nivå 3
+Fråga: Varför måste piloten kunna kartsymboler och VAC-symboler?
+Rätt svar: För att tolka hinder, luftrum, flygplatsinformation och visuella referenser korrekt
+Fel svar: För att kunna beräkna UTC från lokal tid | För att ersätta höjdmätarinställning | För att avgöra flygplanets magnetiska deviation
+Förklaring: Kartsymboler är avgörande för säker orientering, luftrumsmedvetenhet och inflygning.
+
+39. [061 03 03 04] Mätning - nivå 3
+Fråga: Vad används en transportör till på karta?
+Rätt svar: Att mäta och lägga ut vinklar och kurser
+Fel svar: Att mäta bränsleförbrukning | Att ställa in QNH | Att räkna TAS från CAS
+Förklaring: Transportören används för track och bäring.
+
+40. [061 03 03 05] Plottande av kurser - nivå 1
+Fråga: Vad innebär det att plotta en kurs på en Lambertkarta?
+Rätt svar: Att rita färdlinjen mellan brytpunkter och mäta riktning och distans på kartan
+Fel svar: Att ställa in transponderkod innan start | Att välja QNH efter banriktning | Att konvertera all tid till LMT
+Förklaring: Plottning skapar underlag för track, distans, vindkorrigering och driftfärdplan.
+
+41. [061 04 01 01] Död räkning - nivå 3
+Fråga: Hur tar man ut en track mellan brytpunkter?
+Rätt svar: Genom att rita linjen på kartan och mäta riktningen
+Fel svar: Genom att läsa QNH | Genom att mäta bränsletank | Genom att välja närmaste moln
+Förklaring: Track är färdlinjens riktning över marken.
+
+42. [061 04 01 01] Död räkning - nivå 2
+Fråga: Hur räknas position med track, fart och tid?
+Rätt svar: Distans = fart x tid längs vald track
+Fel svar: Position = QNH x höjd | Distans = vind x variation | Track = bränsle x tid
+Förklaring: Död räkning bygger på tidigare position, kurs, fart och tid.
+
+43. [061 04 01 02] Vindpåverkan - nivå 3
+Fråga: Varför korrigeras heading för vind?
+Rätt svar: För att hålla önskad track över marken
+Fel svar: För att ändra flygplanets registrering | För att minska QNH | För att undvika UTC
+Förklaring: Vind driver flygplanet i sidled från färdlinjen.
+
+44. [061 04 01 03] Vind - nivå 3
+Fråga: Hur påverkar motvind groundspeed?
+Rätt svar: Groundspeed minskar
+Fel svar: Groundspeed ökar | TAS minskar när densiteten minskar på höjd | IAS minskar i samma grad som GS vid kraftig motvind
+Förklaring: Motvind minskar fart över marken.
+
+45. [061 04 01 04] Airspeed - nivå 3
+Fråga: Vad är TAS?
+Rätt svar: Fart genom luftmassan korrigerad för höjd och temperatur
+Fel svar: Indikerad fart direkt från fartmätaren | Fart över marken | Kompasskurs
+Förklaring: TAS används i navigationsberäkningar.
+
+46. [061 04 01 04] Airspeed - nivå 3
+Fråga: Vad är GS?
+Rätt svar: Fart över marken
+Fel svar: Fart genom luftmassan | Fartmätarens okorrigerade värde | Kalibrerad fart
+Förklaring: Groundspeed avgör tid och ETA.
+
+47. [061 04 01 05] Groundspeed - nivå 3
+Fråga: Vad är groundspeed?
+Rätt svar: Flygplanets hastighet över marken
+Fel svar: Indikerad fart genom pitotröret | Sann fart genom luftmassan utan vindpåverkan | Fart genom luftmassan som är lika med CAS i standardatmosfär på låg höjd
+Förklaring: Groundspeed är TAS påverkad av med- eller motvindskomponent.
+
+48. [061 04 01 06] ETA - nivå 3
+Fråga: Hur beräknas ETA?
+Rätt svar: Starttid plus beräknad flygtid
+Fel svar: QNH plus UTC | Distans plus variation | Heading minus vind
+Förklaring: ETA bygger på tid, distans och groundspeed.
+
+49. [061 04 01 07] Vindavdrift - nivå 3
+Fråga: Vad används 1 på 60-regeln till?
+Rätt svar: Att uppskatta kurskorrektion vid sidavvikelse
+Fel svar: Att omvandla 60 minuter UTC till lokal tid | Att räkna ut att 1 grad latitud är 1 NM | Att korrigera höjdmätaren med 60 fot per hPa
+Förklaring: 1 NM fel efter 60 NM motsvarar ungefär 1 grad.
+
+50. [061 04 01 08] DR position - nivå 2
+Fråga: Vad krävs för att uppskatta nuvarande position med DR?
+Rätt svar: Tidigare position, kurs eller track, fart och tid
+Fel svar: QNH, höjd och bana räcker när ATS redan har färdplanen | Främst anropssignal | Främst molnbas
+Förklaring: DR-position bygger på förflyttning från känd position.
+
+51. [061 04 02 01] Navräknare: GS, TAS och vindupphållning - nivå 3
+Fråga: Vad kan en navräknare användas till i vindtriangeln?
+Rätt svar: Beräkna groundspeed och vindupphållningsvinkel från TAS, track och vind
+Fel svar: Ställa in QNH automatiskt | Mäta magnetisk deviation i kompassen | Sända VOR-radialer till flygledningen
+Förklaring: Navräknaren löser sambandet mellan track, heading, vind och hastigheter.
+
+52. [061 04 02 02] Navräknare: tid - nivå 3
+Fråga: Hur omvandlas 0,75 timmar till minuter?
+Rätt svar: 45 minuter
+Fel svar: 75 minuter | 30 minuter | 1 timme och 15 minuter
+Förklaring: Decimal tid multipliceras med 60 för att få minuter.
+
+53. [061 04 02 03] Navräknare: distans - nivå 3
+Fråga: Vad är ungefär 100 km i nautiska mil?
+Rätt svar: 54 NM
+Fel svar: 100 NM | 62 NM | 185 NM
+Förklaring: 1 NM är 1,852 km, alltså 100 km / 1,852 ungefär 54 NM.
+
+54. [061 04 02 04] Bränsle - nivå 3
+Fråga: Hur beräknas bränslebehov?
+Rätt svar: Förbrukning per timme x flygtid plus reserv
+Fel svar: QNH x distans | TAS minus CAS | Variation plus deviation
+Förklaring: Bränsleplanering kräver flygtid, förbrukning och reserver.
+
+55. [061 04 02 05] Navräknare: omvandlingar - nivå 2
+Fråga: Vilken omvandling är korrekt för bränslevolym?
+Rätt svar: US gallons och imperial gallons är olika stora enheter
+Fel svar: 1 US gallon är ungefär lika med 1 imperial gallon | 1 liter är i regel 1 gallon i flygsammanhang | Gallon används främst för vikt, inte volym
+Förklaring: Bränsleberäkning kräver rätt gallonsystem och densitet om vikt behövs.
+
+56. [061 04 02 06] Navräknare: airspeed - nivå 3
+Fråga: Varför kan TAS vara högre än CAS på höjd?
+Rätt svar: Lägre luftdensitet gör att samma dynamiska tryck motsvarar högre sann fart
+Fel svar: TAS är i regel lägre än CAS på höjd | CAS påverkas främst av magnetisk variation | TAS och CAS är per definition i regel lika
+Förklaring: TAS är fart genom luftmassan och ökar relativt CAS när densiteten minskar.
+
+57. [061 04 02 07] Navräknare: vind - nivå 1
+Fråga: Vad kan beräknas om TAS, GS, TH och TT är kända?
+Rätt svar: Vindens riktning och hastighet
+Fel svar: Främst QNH vid destination | Flygplanets vikt i pund | Datumlinjens position
+Förklaring: Skillnaden mellan heading/fart genom luft och track/fart över mark visar vindvektorn.
+
+58. [061 04 02 08] True altitude - nivå 3
+Fråga: Varför korrigeras true altitude för temperatur?
+Rätt svar: Kall eller varm luft ändrar skillnaden mellan indikerad och sann höjd
+Fel svar: Temperatur ändrar transponderkod | Temperatur ändrar kartskalan | Temperatur ändrar UTC
+Förklaring: I kall luft är sann höjd ofta lägre än indikerad.
+
+59. [061 04 03 00] Vindtriangel - nivå 2
+Fråga: Vilket alternativ är mest fullständigt korrekt om vindtriangeln?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Den visar sambandet mellan heading och track | Den visar vindvektorns inverkan | Den kan användas för att bestämma WCA och groundspeed
+Förklaring: Vindtriangeln kopplar ihop luftfartygsvektor, vindvektor och markvektor.
+
+60. [061 04 05 01] DR beräkningar - nivå 3
+Fråga: Vilken formel används för tid, distans och hastighet?
+Rätt svar: Tid = distans / hastighet
+Fel svar: Tid = hastighet / distans | Distans = tid / hastighet | Hastighet = distans x tid
+Förklaring: Grundsambandet är distans = hastighet x tid.
+
+61. [061 05 01 00] Under flygning - nivå 3
+Fråga: Hur kan position bestämmas visuellt under flygning?
+Rätt svar: Genom att jämföra karta med tydliga markreferenser
+Fel svar: Genom att jämföra bränsleförbrukning med planerad tid | Genom att välja högsta molnet | Genom att ändra QNH
+Förklaring: Kartläsning kräver identifierbara referenser.
+
+62. [061 05 03 01] Revision av groundspeed - nivå 3
+Fråga: Hur kan groundspeed revideras under flygning?
+Rätt svar: Genom att jämföra faktisk tid mellan kända punkter med planerad distans
+Fel svar: Genom att ändra QNH till standardtryck | Genom att använda magnetkompassen utan kartjämförelse | Genom att räkna molnmängd i åttondelar
+Förklaring: Om faktisk tidsåtgång avviker från planerad kan GS och ETA justeras.
+
+63. [061 05 03 02] Vilseåtgärder - nivå 3
+Fråga: Vad är lämpligt om man flugit vilse?
+Rätt svar: Behåll kontroll, använd karta/navhjälpmedel och kontakta ATS vid behov
+Fel svar: Fortsätt på senast planerad kurs tills ett tydligt landmärke dyker upp | Avvakta på frekvensen utan att sända tills ny instruktion ges | Sjunk under säker höjd
+Förklaring: Prioritet är att flyga säkert och återorientera systematiskt.
+
+64. [061 05 03 03] Vind under flygning - nivå 3
+Fråga: Hur märks vindens påverkan under navigering?
+Rätt svar: Flygplanet driver från vald track och groundspeed ändras
+Fel svar: Indikerad fart blir i regel noll i sidvind | Longituden ändras inte i medvind | Magnetisk variation upphör att gälla
+Förklaring: Vind påverkar både färdriktning över marken och hastighet över marken.
+
+65. [061 05 03 04] Revision av ETA - nivå 2
+Fråga: Vad måste beaktas när ETA revideras?
+Rätt svar: Ändrad groundspeed, vind och eventuell ändrad färdväg
+Fel svar: Främst höjdmätarinställning vid start | Främst flygplanets registreringsbeteckning | Enbart magnetisk deviation vid aktuell kurs
+Förklaring: ETA bygger på återstående distans och aktuell eller förväntad groundspeed.
+
+66. [061 05 04 00] Driftfärdplan - nivå 3
+Fråga: Vad förs normalt in i en driftfärdplan?
+Rätt svar: Beräknade kurser, distanser, tider, bränsle och relevanta vinduppgifter
+Fel svar: Främst passagerarnas namn | Främst färgen på flygplanet | Främst UTC-datum utan navigationsdata
+Förklaring: Driftfärdplanen samlar beräkningsunderlag för att följa och omplanera flygningen.
+
+67. [062 01 02 01] Antenner - nivå 1
+Fråga: Vilket påstående om antenner för radionavigation är korrekt?
+Rätt svar: Olika radionavigationshjälpmedel använder antenner anpassade till frekvens och signaltyp
+Fel svar: Alla system använder ungefär samma antenn och frekvens | DME kräver främst markstationens antenn eftersom flygplanet passivt tar emot avstånd | GPS använder VHF-kommunikationsantennen som enda antenn
+Förklaring: Antenntyp och placering beror på system, exempelvis VOR, ADF, DME eller GNSS.
+
+68. [062 01 03 04] Radiovågor - nivå 1
+Fråga: Hur hänger frekvens och våglängd ihop?
+Rätt svar: Högre frekvens ger kortare våglängd
+Fel svar: Högre frekvens ger längre räckvidd och därför längre våglängd | Frekvens och våglängd saknar samband | Våglängd anges i nautiska mil när radiosignalen används för navigation
+Förklaring: Elektromagnetiska vågor har sambandet våghastighet = frekvens x våglängd.
+
+69. [062 02 01 01] Radiopejl principer - nivå 1
+Fråga: Vad gör en radiopejl?
+Rätt svar: Bestämmer en bäring mellan luftfartyg och markstation med radiosignal
+Fel svar: Mäter bränsleförbrukning via GPS | Visar lufttryck reducerat till havsytan | Beräknar molnbas från daggpunkt
+Förklaring: Radiopejl används för att få riktning/bäring och kan uttryckas med QDM, QDR eller QTE.
+
+70. [062 02 01 02] Radiopejl - nivå 2
+Fråga: Vad betyder QDM?
+Rätt svar: Magnetisk kurs till stationen
+Fel svar: Magnetisk bäring från stationen | Sann kurs till stationen | Magnetisk kurs från stationen
+Förklaring: QDM är riktning till stationen.
+
+71. [062 02 01 02] Radiopejl - nivå 2
+Fråga: Vad betyder QDR?
+Rätt svar: Magnetisk bäring från stationen
+Fel svar: Magnetisk kurs till stationen | Sann bäring till stationen | Tryck reducerat till havsytan
+Förklaring: QDR är bäring från stationen.
+
+72. [062 02 01 03] Radiopejl räckvidd - nivå 1
+Fråga: Vad begränsar ofta räckvidden för VHF-baserad radiopejl?
+Rätt svar: Fri sikt och radiohorisont mellan station och luftfartyg
+Fel svar: Främst flygplanets bränslemängd | Sommartid jämfört med UTC | Latitudskillnaden till ekvatorn
+Förklaring: VHF-signaler är i huvudsak line-of-sight och påverkas av höjd och terräng.
+
+73. [062 02 01 04] Radiopejl fel och noggrannhet - nivå 1
+Fråga: Vad kan påverka noggrannheten hos en radiopejl?
+Rätt svar: Signalstyrka, störningar, terräng och stationsutrustning
+Fel svar: Främst pilotens val av QNH | Främst flygplanets TAS | Enbart datumlinjen
+Förklaring: Radiopejl är enkel men kan få fel av propagation, störningar och geometri.
+
+74. [062 02 01 05] Radiopejl faktorer - nivå 1
+Fråga: Vilken faktor kan försämra radiopejlens räckvidd eller noggrannhet?
+Rätt svar: Låg flyghöjd och terrängskärmning
+Fel svar: Högre antennhöjd med fri sikt | Kortare avstånd till stationen | Stark och ren signal
+Förklaring: Låg höjd minskar radiohorisonten och terräng kan blockera signalen.
+
+75. [062 02 02 01] NDB/ADF - nivå 2
+Fråga: Vad är NDB/ADF-systemets princip?
+Rätt svar: ADF tar emot signal från NDB och visar bäring
+Fel svar: NDB mäter DME-avstånd | ADF visar QNH | NDB är en satellit
+Förklaring: ADF används för navigering mot eller från NDB.
+
+76. [062 02 02 02] NDB/ADF - nivå 2
+Fråga: Vad är homing med ADF?
+Rätt svar: Att hålla nosen mot stationen utan vindkorrigering
+Fel svar: Att följa vald track med vindkorrigering | Att mäta slant range | Att ställa in VOR-radial
+Förklaring: Homing ger krökt bana vid sidvind.
+
+77. [062 02 02 03] NDB/ADF räckvidd - nivå 1
+Fråga: Vad påverkar NDB/ADF-räckvidden?
+Rätt svar: Sändareffekt, frekvens, tid på dygnet och atmosfäriska störningar
+Fel svar: Främst banans magnetiska riktning | QNH-värdet vid flygplatsen | Flygplanets färg och registrering
+Förklaring: NDB använder låga/medelhöga frekvenser och är känsligare för störningar än VOR.
+
+78. [062 02 02 04] NDB/ADF noggrannhet - nivå 1
+Fråga: Vilket påstående om NDB/ADF-noggrannhet är korrekt?
+Rätt svar: Noggrannheten är begränsad och systemet är känsligt för flera felkällor
+Fel svar: ADF är ofta tillräckligt ungefär nära stationen och påverkas mindre av terräng än GPS | ADF visar bäring direkt till stationen och korrigerar automatiskt för variation | NDB påverkas främst av avstånd men inte av elektriska urladdningar
+Förklaring: ADF kan påverkas av bland annat åska, nattfel, terräng och kusteffekter.
+
+79. [062 02 02 05] NDB/ADF felkällor - nivå 1
+Fråga: Vilken är en typisk felkälla för ADF?
+Rätt svar: Åskstörningar kan få nålen att peka mot blixtaktivitet
+Fel svar: QNH inställt på standardtryck | Höjd över havet mindre än 3000 fot | Att piloten använder UTC i loggen
+Förklaring: ADF-mottagning kan störas av atmosfäriska elektriska fenomen.
+
+80. [062 02 03 01] VOR - nivå 2
+Fråga: Vad är en VOR-radial?
+Rätt svar: Magnetisk bäring ut från VOR-stationen
+Fel svar: Magnetisk kurs till stationen | Avstånd till stationen | Flygnivå över stationen
+Förklaring: Radialer namnges efter riktningen från VOR.
+
+81. [062 02 03 01] VOR - nivå 2
+Fråga: Vad gör OBS på en VOR-indikator?
+Rätt svar: Ställer in önskad kurs eller radial
+Fel svar: Ändrar QNH | Startar transponder | Mäter bränsle
+Förklaring: OBS används tillsammans med CDI och TO/FROM.
+
+82. [062 02 03 02] VOR presentation och tolkning - nivå 2
+Fråga: Vad visar en CDI i ett VOR-instrument?
+Rätt svar: Sidavvikelse från vald radial eller kurslinje
+Fel svar: Avstånd i NM till stationen utan DME | Vindhastighet på höjd | Höjd över havet enligt QNH
+Förklaring: CDI hjälper piloten att följa vald VOR-kurs och TO/FROM-indikering måste tolkas rätt.
+
+83. [062 02 03 03] VOR räckvidd - nivå 2
+Fråga: Vad är huvudsaklig begränsning för VOR-räckvidd?
+Rätt svar: VHF-signalen kräver i stort sett fri sikt och begränsas av radiohorisonten
+Fel svar: VOR fungerar visuellt under molnbas och instrumentellt ovan moln | Räckvidden beror främst på stationens höjd och QFE | VOR har obegränsad räckvidd över land
+Förklaring: VOR arbetar i VHF och påverkas av höjd, terräng och stationens klass.
+
+84. [062 02 03 04] VOR fel och noggrannhet - nivå 2
+Fråga: Vilket fel kan påverka VOR-navigation?
+Rätt svar: Stationsfel, terrängreflexer och mottagar-/instrumentfel
+Fel svar: Daggpunktsspridning i METAR | Felaktig bränslepåfyllning i liter | Datumlinjepassage
+Förklaring: VOR är noggrannare än NDB men har fortfarande begränsningar och kontrollkrav.
+
+85. [062 02 03 05] VOR faktorer - nivå 1
+Fråga: Vad kan försämra VOR-mottagningen?
+Rätt svar: Terrängskärmning eller multipath-reflexer
+Fel svar: Att flygplanet har för hög bränslereserv | Att UTC används i ATS-färdplan | Att kartan är i skala 1:500 000
+Förklaring: VHF-signaler kan blockeras eller reflekteras av terräng och hinder.
+
+86. [062 02 04 01] DME - nivå 1
+Fråga: Vad mäter DME?
+Rätt svar: Slant range-avstånd mellan flygplan och markstation
+Fel svar: Horisontellt kartavstånd till stationen | Magnetisk bäring från stationen | Radialen från VOR-stationen
+Förklaring: DME mäter radioavstånd längs sned linje.
+
+87. [062 02 04 02] DME presentation och tolkning - nivå 1
+Fråga: Vad visar DME för avstånd?
+Rätt svar: Slant range, alltså det lutande avståndet till stationen
+Fel svar: I regel horisontellt kartavstånd | I regel kvarvarande distans till destination | Magnetisk bäring från stationen
+Förklaring: DME-avståndet är större än horisontellt avstånd när flygplanet är nära stationen på höjd.
+
+88. [062 02 04 03] DME räckvidd - nivå 2
+Fråga: Vad påverkar DME-räckvidd?
+Rätt svar: Line-of-sight, flyghöjd, stationseffekt och terräng
+Fel svar: Molnmängd i åttondelar | Enbart lufttemperatur i Celsius | Pilotens val av QDM eller QDR
+Förklaring: DME använder UHF och är i praktiken beroende av radiohorisont och signalgeometri.
+
+89. [062 02 04 04] DME fel och noggrannhet - nivå 1
+Fråga: Vad betyder slant range i DME-sammanhang?
+Rätt svar: Det raka lutande avståndet mellan flygplanet och DME-stationen
+Fel svar: Det horisontella avståndet längs marken | Skillnaden mellan IAS och TAS | Vindavdrift från färdlinjen
+Förklaring: På höjd nära stationen kan DME visa märkbart mer än markavståndet.
+
+90. [062 02 04 05] DME faktorer - nivå 1
+Fråga: Vilken situation ger störst skillnad mellan DME och kartavstånd?
+Rätt svar: Högt över eller nära DME-stationen
+Fel svar: Långt bort på låg höjd | Vid ungefär samma höjd som stationen och långt bort | När DME är kopplad till VOR på långt avstånd
+Förklaring: Slant range-effekten är störst när höjdskillnaden är stor jämfört med horisontellt avstånd.
+
+91. [062 03 02 01] Primärradar principer - nivå 1
+Fråga: Hur fungerar primärradar i grunden?
+Rätt svar: Den sänder ut radiosignaler och tar emot ekon från mål
+Fel svar: Den kräver i regel att flygplanet sänder transponderkod | Den använder främst GPS-position från flygplanet | Den mäter lufttryck från flygplanets höjdmätare
+Förklaring: Primärradar kan upptäcka mål utan transponder men ger begränsad information.
+
+92. [062 03 02 02] Primärradar presentation - nivå 1
+Fråga: Vilken begränsning har primärradar jämfört med sekundärradar?
+Rätt svar: Den ger normalt inte automatiskt identitet eller tryckhöjd från luftfartyget
+Fel svar: Den kan främst visa flygplan på marken | Den fungerar främst i dagsljus | Den visar i regel pilotens färdplan i klartext
+Förklaring: Primärradar visar ekon, medan SSR/transponder ger kod, identitet och ibland höjd.
+
+93. [062 03 04 01] Sekundärradar och transponder principer - nivå 2
+Fråga: Vad är principen för sekundärradar?
+Rätt svar: Markstationen frågar och flygplanets transponder svarar med kod och eventuell höjdinformation
+Fel svar: Primärradar använder reflektioner men kräver transpondersvar för position | Flygplanet tar emot QNH från GPS-satelliter | Piloten skickar manuella positionsrapporter via ADF
+Förklaring: SSR bygger på samverkan mellan markradar och transponder.
+
+94. [062 03 04 02] Transponder - nivå 2
+Fråga: Vad gör Mode A?
+Rätt svar: Sänder identitetskod
+Fel svar: Sänder tryckhöjd | Sänder position från luftfartygets navigeringssystem i alla Mode A-svar | Avaktiverar radiosändaren men behåller mottagning
+Förklaring: Mode A är kodidentifiering.
+
+95. [062 03 04 02] Transponder - nivå 2
+Fråga: Vad gör Mode C?
+Rätt svar: Sänder tryckhöjdsinformation
+Fel svar: Sänder främst anropssignal | Sänder VOR-radial | Mäter DME
+Förklaring: Mode C ger höjd till ATS.
+
+96. [062 03 04 03] Transponder handhavande - nivå 2
+Fråga: Vad innebär normalt SQUAWK IDENT?
+Rätt svar: Piloten aktiverar ident-funktionen så flygledaren lättare kan identifiera ekot
+Fel svar: Piloten använder standby för att markera att radiomottagaren fungerar | Piloten byter till nödfrekvens automatiskt | Piloten sänder QNH till alla stationer
+Förklaring: Ident markerar transpondersvaret under kort tid på radarskärmen.
+
+97. [062 06 01 01] GNSS - nivå 2
+Fråga: Vilket alternativ är mest fullständigt korrekt om GNSS-positionering?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Mottagaren använder signaler från flera satelliter | Positionen bygger på tidsmätning och avståndsberäkning | Satellitgeometri och signalintegritet påverkar noggrannheten
+Förklaring: Alla tre påståenden är centrala för GNSS.
+
+98. [062 06 01 01] GNSS - nivå 1
+Fråga: Vad är RAIM?
+Rätt svar: En mottagarbaserad kontroll av GNSS-signalernas integritet
+Fel svar: Ett markbaserat system som sänder DME-avstånd | En VOR-funktion som visar TO/FROM | En transponderfunktion för nödkod
+Förklaring: RAIM varnar om GNSS-integriteten inte räcker.
+
+99. [062 06 01 02] GNSS handhavande - nivå 2
+Fråga: Vad är viktigt vid operativt handhavande av GNSS?
+Rätt svar: Kontrollera databas, vald färdväg, rimlighet och systemstatus
+Fel svar: Använd direct-to som huvudmetod om databasen är uppdaterad, även utan kartjämförelse | Använd GNSS som ersättning för utkik i VMC | Stäng av RAIM-varningar för att undvika störningar
+Förklaring: GNSS är ett hjälpmedel som måste övervakas och jämföras med karta, färdplan och verklighet.
+
+100. [062 06 01 03] GNSS - nivå 2
+Fråga: Vilken felkälla påverkar GNSS?
+Rätt svar: Satellitgeometri, jonosfär, multipath och databaskvalitet
+Fel svar: QFE vid bantröskel | Molnens färg | Kartans pappersstorlek
+Förklaring: GNSS är noggrant men har integritets- och användarfällor.

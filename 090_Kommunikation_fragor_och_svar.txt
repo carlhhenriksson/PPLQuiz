@@ -1,0 +1,410 @@
+090 Kommunikation
+=================
+
+1. [091 01 01 00] Definitioner - nivå 2
+Fråga: Vad är en radiostation i flygsammanhang?
+Rätt svar: En station som sänder eller tar emot radiokommunikation
+Fel svar: En markstation som främst sänder navigationsinformation men inte tal | En luftburen utrustning som svarar på SSR men saknar vanlig talradio | En publicerad rapportpunkt där radioförbindelse normalt upprättas
+Förklaring: En radiostation kan finnas på marken eller i luftfartyg.
+
+2. [091 01 02 00] ATS-förkortningar - nivå 2
+Fråga: Vad omfattar ATS-tjänster?
+Rätt svar: Flyginformations-, alarmerings- och flygkontrolltjänster
+Fel svar: Flyginformation och väderupplysningar, men inte alarmering eller kontrolltjänst | Färdplanshantering och alarmering, men inte flyginformation eller kontroll | Service- och regularitetsmeddelanden som prioriteras som ATS-tjänst
+Förklaring: ATS är samlingsnamn för tjänster som stödjer säker flygtrafik.
+
+3. [091 01 03 00] Q-koder - nivå 3
+Fråga: Vilken Q-kod används för tryck som ger höjd över havet?
+Rätt svar: QNH
+Fel svar: QFE | QFF | QDM
+Förklaring: QNH får höjdmätaren att visa altitude över MSL.
+
+4. [091 01 03 00] Q-koder - nivå 3
+Fråga: Vilken Q-kod anger magnetisk kurs till stationen?
+Rätt svar: QDM
+Fel svar: QDR | QTE | QNH
+Förklaring: QDM är magnetisk riktning till stationen.
+
+5. [091 01 03 00] Q-koder - nivå 3
+Fråga: Vilken Q-kod anger magnetisk bäring från stationen?
+Rätt svar: QDR
+Fel svar: QDM | QTE | QFE
+Förklaring: QDR är magnetisk bäring från stationen.
+
+6. [091 01 04 00] Meddelandekategorier - nivå 1
+Fråga: Vilken meddelandetyp har högst företräde?
+Rätt svar: Nödmeddelande
+Fel svar: Regularitetsmeddelande | Rutinmässig väderfråga | Administrativt meddelande
+Förklaring: Nödtrafik har företräde framför all annan radiotrafik.
+
+7. [091 02 01 00] Bokstavering - nivå 3
+Fråga: Vilket ICAO-ord används för bokstaven A?
+Rätt svar: ALFA
+Fel svar: ADAM | ABLE | ARCO
+Förklaring: ICAO-alfabetet börjar ALFA, BRAVO, CHARLIE.
+
+8. [091 02 01 00] Bokstavering - nivå 3
+Fråga: Vilket ICAO-ord används för bokstaven B?
+Rätt svar: BRAVO
+Fel svar: BERTIL | BETA | BOSTON
+Förklaring: ICAO-bokstavering minskar missförstånd.
+
+9. [091 02 01 00] Bokstavering - nivå 3
+Fråga: Vilket ICAO-ord används för bokstaven C?
+Rätt svar: CHARLIE
+Fel svar: CESAR | COCA | CONTROL
+Förklaring: C bokstaveras CHARLIE internationellt.
+
+10. [091 02 02 00] Siffror - nivå 3
+Fråga: Hur ska siffror sändas vid sämre förbindelse på svenska?
+Rätt svar: Med förtydligade former som TVÅA, TREA, FEMMA och SEXA
+Fel svar: Som vanliga tal vid god läsbarhet men grupperat vid längre tal | Med morse eller sifferord om radioläsbarheten är låg | Med engelska sifferord även i svensk radiotrafik när förbindelsen är svag
+Förklaring: Förtydligat uttal minskar risk för missförstånd.
+
+11. [091 02 02 00] Siffror - nivå 3
+Fråga: Hur ska en frekvens normalt sändas?
+Rätt svar: Siffra för siffra med KOMMA för decimaltecken
+Fel svar: Som grupperade siffror där decimaldelen får utelämnas om frekvensen är känd | Som QNH | Som vindriktning
+Förklaring: Frekvensangivelse kräver noggrann sifferläsning.
+
+12. [091 02 03 00] Tid - nivå 3
+Fråga: Hur anges tid i radiotrafik?
+Rätt svar: I UTC med timmar och minuter när det behövs
+Fel svar: I regel lokal tid utan förklaring | I regel som soltid | Som minuter och sekunder när ungefär tid behövs
+Förklaring: UTC undviker tidszonsmissförstånd.
+
+13. [091 02 04 00] Sändningsteknik - nivå 3
+Fråga: Vilket alternativ är mest fullständigt korrekt om sändningsteknik?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Lyssna innan du sänder | Tala tydligt och kortfattat | Använd standardfraseologi när den finns
+Förklaring: Alla tre punkter ingår i god radiodisciplin.
+
+14. [091 02 05 00] Fraseologi - nivå 3
+Fråga: Vilka flygfaser omfattas av normal VFR-fraseologi?
+Rätt svar: Taxning, start, utflygning, routeflygning, inflygning och landning
+Fel svar: Start, routeflygning och inflygning, men normalt inte taxning | Taxning och parkering men inte flygning i trafikvarvet | Nöd- och iltrafik samt frekvensskifte, men inte normal VFR-flygning
+Förklaring: Fraseologi behövs genom hela flygningen.
+
+15. [091 02 05 00] Positionsrapport - nivå 3
+Fråga: Vad bör en positionsrapport normalt innehålla?
+Rätt svar: Anropssignal, position, höjd och avsikt när relevant
+Fel svar: Anropssignal och pilotens namn när radioförbindelsen upprättas | Bränslemängd, position och avsikt om flygningen är försenad | Destinationens väder och beräknad ankomsttid
+Förklaring: Positionsrapporten ger ATS lägesbild.
+
+16. [091 02 05 00] Klarering - nivå 3
+Fråga: Vad ingår typiskt i en begäran om klarering?
+Rätt svar: Vem du är, var du är, vad du vill göra och relevant flyginformation
+Fel svar: Ordet klarering följt av destination och önskad höjd | Destination, färdplanstyp och önskad frekvens | Transponderkod och aktuell höjd om ATS redan känner färdplanen
+Förklaring: Mottagaren behöver tillräcklig information för att svara säkert.
+
+17. [091 02 05 00] Motläsning - nivå 3
+Fråga: Vilket alternativ är mest fullständigt korrekt om motläsning av klarering?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Bana och höjd ska motläsas när de ingår | Kurs, fart och frekvens ska motläsas när de är instruktioner | SSR-kod och höjdmätarinställning ska motläsas när de ges
+Förklaring: Flygsäkerhetskritiska delar måste motläsas för att fel ska upptäckas.
+
+18. [091 02 06 00] Anropssignaler - nivå 3
+Fråga: Hur upprättas radioförbindelse normalt?
+Rätt svar: Mottagarens anropssignal följt av egen anropssignal
+Fel svar: Egen anropssignal följt av position när frekvensen är obelastad | Börja med lång väderrapport | Använd förkortad anropssignal om det inte finns liknande trafik
+Förklaring: Första anropet ska visa vem som anropas och vem som anropar.
+
+19. [091 02 06 00] Anropssignaler - nivå 2
+Fråga: När får anropssignaler normalt förkortas?
+Rätt svar: När tillfredsställande förbindelse är upprättad och mottagaren använder förkortningen
+Fel svar: I regel i första anropet | Först när piloten själv har valt en kortare form | När frekvensen är belastad eller vid korta positionsrapporter
+Förklaring: Förkortning får inte skapa risk för förväxling.
+
+20. [091 02 07 00] Frekvensskifte - nivå 3
+Fråga: Vilken fraseologi används typiskt vid frekvensskifte?
+Rätt svar: KONTAKTA följt av enhetens anropssignal och frekvens
+Fel svar: KÖR TILL följt av bana | QNH följt av molnbas | MAYDAY följt av höjd
+Förklaring: Frekvensskifte ska vara tydligt och motläsas.
+
+21. [091 02 08 00] Provsändning - nivå 2
+Fråga: Hur länge får provsändning enligt TSFS normalt pågå?
+Rätt svar: Inte längre än 10 sekunder
+Fel svar: Högst 20 sekunder | Högst 30 sekunder | Så länge stationen behöver för att prova läsbarhet
+Förklaring: TSFS anger högst 10 sekunder och bara i undantagsfall.
+
+22. [091 02 08 00] Läslighet - nivå 2
+Fråga: Vad betyder läslighet 5?
+Rätt svar: Utmärkt läsbarhet
+Fel svar: Oläsbar | Läsbar ibland | Svag men läsbar
+Förklaring: Läsbarhetsskalan går från 1 till 5.
+
+23. [091 02 09 00] Motläsning och bekräftelse - nivå 3
+Fråga: Vilken information ska normalt motläsas?
+Rätt svar: Klareringar, bana, höjdmätarinställning, SSR-kod, höjd, kurs, fart och frekvensskifte
+Fel svar: Väder, bana och trafikinformation men inte klareringar | Flygplanstyp, bana och QNH när trafiken är okomplicerad | Klareringar behöver främst motläsas om någon del var otydlig
+Förklaring: Motläsning säkerställer att säkerhetskritiska instruktioner uppfattats korrekt.
+
+24. [091 03 01 00] Flygplatsväder - nivå 3
+Fråga: Vilket alternativ är mest fullständigt korrekt om flygplatsväder?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Vind, sikt och rådande väder ingår normalt | Moln, temperatur och daggpunkt ingår normalt | QNH/QFE och övrig väsentlig information kan ingå
+Förklaring: Flygplatsväder består av flera uppgifter som tillsammans beskriver start- och landningsförhållanden.
+
+25. [091 03 02 00] ATIS - nivå 3
+Fråga: Vad är ATIS?
+Rätt svar: Automatisk sändning med aktuell terminal- och flygplatsinformation
+Fel svar: En flygsäkerhetsfras som används när väderinformationen är brådskande | Ett radiosystem som automatiskt sänder navigations- och väderdata | En transponderfunktion som sänder aktuell flygplatsinformation
+Förklaring: ATIS identifieras med bokstav och minskar radiobelastning.
+
+26. [091 03 02 00] ATIS - nivå 1
+Fråga: Hur identifieras ATIS-uppdateringar?
+Rätt svar: Med bokstavsidentifikation
+Fel svar: Med frekvens och giltighetstid i klartext | Med SSR-kod eller Mode S-identifikation | Med QDM/QDR beroende på inflygningsriktning
+Förklaring: Ny ATIS får ny bokstav.
+
+27. [091 03 02 00] VOLMET - nivå 2
+Fråga: Vad är VOLMET?
+Rätt svar: Radioutsändning av flygväderinformation
+Fel svar: En utsändning som innehåller startklarering och QNH | En radiosänd trafikvarvsbeskrivning för VFR | En skala för läsbarhet av meteorologiska sändningar
+Förklaring: VOLMET ger väderrapporter och prognoser under flygning.
+
+28. [091 03 02 00] SIGMET - nivå 2
+Fråga: Vilket alternativ är mest fullständigt korrekt om SIGMET?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Det är en varning för betydande väder | Den kan avse till exempel svår turbulens, kraftig isbildning eller åska | Den är viktig för bedömning av flygsäkerhet på sträcka
+Förklaring: Alla tre påståenden är korrekta för SIGMET.
+
+29. [091 04 01 00] Radiobortfall - nivå 3
+Fråga: Vilken transponderkod används vid radiobortfall?
+Rätt svar: 7600
+Fel svar: 7700 | 7500 | 7000
+Förklaring: 7600 anger radioförbindelseproblem.
+
+30. [091 04 01 00] Radiobortfall - nivå 2
+Fråga: Vad är blindsändning?
+Rätt svar: Sändning utan att veta om mottagaren kan höra
+Fel svar: Sändning med släckt transponder | En sändning med egen anropssignal men utan mottagarens svar | En satellitväderrapport
+Förklaring: Vid radiofel kan piloten sända avsikter även utan svar.
+
+31. [091 04 01 00] Radiobortfall - nivå 2
+Fråga: Vad innebär blindsändning vid radioproblem?
+Rätt svar: Piloten sänder meddelanden utan att förvänta sig svar när mottagning eller förbindelse är osäker
+Fel svar: Piloten stänger av transpondern och lämnar frekvensen | Piloten går över till interpilotfrekvens om ATS inte svarar | Piloten använder ljussignaler och transponder men inte talradio
+Förklaring: Blindsändning kan användas när piloten misstänker att sändning fungerar men mottagning inte gör det.
+
+32. [091 05 01 00] Nöd - nivå 3
+Fråga: Vilken signal föregår nödförbindelse?
+Rätt svar: MAYDAY
+Fel svar: PAN PAN | SECURITE | MAYDAY RELAY om luftfartyget själv befinner sig i fara
+Förklaring: MAYDAY används vid allvarlig och överhängande fara.
+
+33. [091 05 01 00] Nöd - nivå 3
+Fråga: Vilken transponderkod används vid nödtillfälle?
+Rätt svar: 7700
+Fel svar: 7600 | 7500 | 7000
+Förklaring: 7700 är allmän nödkod.
+
+34. [091 05 01 00] Nöd - nivå 3
+Fråga: Vilken är internationell VHF-nödfrekvens?
+Rätt svar: 121,500 MHz
+Fel svar: 123,450 MHz | 118,000 MHz | 243,000 MHz som enda VHF-nödfrekvens
+Förklaring: 121,500 MHz är internationell VHF-nödfrekvens.
+
+35. [091 05 01 00] Nöd - nivå 2
+Fråga: Hur definieras nödtillfälle?
+Rätt svar: Allvarlig eller överhängande fara där omedelbar hjälp behövs
+Fel svar: Säkerheten berörs men omedelbar hjälp krävs inte | En vanlig försening | En väderfråga
+Förklaring: Nödtillfälle skiljs från iltillfälle genom att omedelbar hjälp behövs.
+
+36. [091 05 01 00] Nöd - nivå 3
+Fråga: Vilket alternativ är mest fullständigt korrekt om nödmeddelande?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: MAYDAY och luftfartygets anropssignal | Nödläge, avsikt och position | Höjd och annan information som kan hjälpa räddning eller ATS
+Förklaring: Ett nödmeddelande ska vara kort men innehålla det som behövs för hjälp och lägesförståelse.
+
+37. [091 05 01 00] Nödtrafik - nivå 3
+Fråga: Vilken trafik har företräde framför all annan radiotrafik?
+Rätt svar: Nödtrafik
+Fel svar: Regularitetsmeddelanden | Väderinformation utan brådska | Positionsrapport i normal trafik
+Förklaring: Nödtrafik avser allvarlig och överhängande fara där omedelbar hjälp behövs.
+
+38. [091 05 02 00] Iltillfälle - nivå 2
+Fråga: Hur definieras iltillfälle?
+Rätt svar: En situation som berör säkerheten men där omedelbar hjälp inte krävs
+Fel svar: Allvarlig fara där omedelbar hjälp krävs | En rutinmässig väderfråga | En utsändning som innehåller startklarering och QNH
+Förklaring: Iltillfälle markeras med PAN PAN.
+
+39. [091 05 02 00] Iltillfälle - nivå 3
+Fråga: Vilken signal föregår ilförbindelse?
+Rätt svar: PAN PAN
+Fel svar: MAYDAY | SECURITE | PAN PAN en gång följt av anropssignal och avsikt
+Förklaring: PAN PAN används när säkerheten påverkas men läget inte är nödläge.
+
+40. [091 05 02 00] Iltrafik - nivå 3
+Fråga: Vilken signal används för ilmeddelande?
+Rätt svar: PAN PAN
+Fel svar: MAYDAY | SECURITE | QNH QNH
+Förklaring: PAN PAN används vid ilsituation där säkerheten berörs men omedelbar hjälp inte krävs på samma sätt som vid nöd.
+
+41. [091 06 01 00] VHF - nivå 2
+Fråga: Vilket frekvensområde används typiskt för civil flygradio på VHF?
+Rätt svar: 118,000 till 136,975 MHz för civil flygradiokommunikation
+Fel svar: 30 till 50 kHz | 108 till 117,95 kHz | VHF-bandet över 300 MHz för modern 8,33 kHz-kanalisation
+Förklaring: VHF är ett bredare band, men civil flygradiokommunikation ligger normalt i området 118,000 till 136,975 MHz.
+
+42. [091 06 01 00] VHF - nivå 2
+Fråga: Vad kännetecknar VHF-radiovågor?
+Rätt svar: De går huvudsakligen rakt och begränsas av radiohorisonten
+Fel svar: De följer jordytan bättre än UHF men dämpas bakom terräng | De fungerar bäst nära marken eftersom räckvidden då är kortast | De påverkas inte av höjd
+Förklaring: VHF-räckvidd förbättras med höjd och fri sikt.
+
+43. [TSFS 2019:36 2:1] Trafikdisciplin - nivå 3
+Fråga: Vilket alternativ är mest fullständigt korrekt om trafikdisciplin enligt TSFS?
+Rätt svar: Alla tre övriga alternativ är rätt
+Fel svar: Radiokommunikation ska ske med största möjliga trafikdisciplin | Meddelanden ska vara tydliga och kortfattade | Onödiga eller långa sändningar bör undvikas
+Förklaring: Alla tre påståenden ligger i linje med kravet på radiodisciplin.
+
+44. [TSFS 2019:36 2:13] Språk - nivå 2
+Fråga: Vilket språk ska användas efter första anropet enligt TSFS?
+Rätt svar: Det språk som luftfartygets första anrop anger, svenska eller engelska
+Fel svar: I regel engelska | I regel svenska | Svenska används lokalt och engelska främst på kontrollerade flygplatser
+Förklaring: Första anropet styr språkvalet.
+
+45. [TSFS 2019:36 2:14] Bokstavering - nivå 3
+Fråga: Vilken svensk bokstavering anger TSFS för Å?
+Rätt svar: ÅKE
+Fel svar: ÅSA | ÅBO | ÅLAND
+Förklaring: TSFS anger svensk bokstavering för Å, Ä och Ö.
+
+46. [TSFS 2019:36 2:14] Bokstavering - nivå 3
+Fråga: Vilken svensk bokstavering anger TSFS för Ä?
+Rätt svar: ÄRLIG
+Fel svar: ÄDLA | ÄNGLA | ÄRLA
+Förklaring: Svensk bokstavering enligt TSFS använder ÄRLIG för Ä.
+
+47. [TSFS 2019:36 2:14] Bokstavering - nivå 3
+Fråga: Vilken svensk bokstavering anger TSFS för Ö?
+Rätt svar: ÖSTEN
+Fel svar: ÖRJAN | ÖRNEN | ÖLAND
+Förklaring: Svensk bokstavering enligt TSFS använder ÖSTEN för Ö.
+
+48. [TSFS 2019:36 2:26] Interpilot - nivå 2
+Fråga: Vilken frekvens anges för interpilot air-to-air communication?
+Rätt svar: 123,450 MHz
+Fel svar: 121,500 MHz | 118,000 MHz | 136,975 MHz
+Förklaring: TSFS anger 123,450 MHz för interpilotkommunikation i avlägsna områden.
+
+49. [TSFS 2019:36 2:5] Radiotelefoni - nivå 2
+Fråga: När får andra anropet göras om ATS inte svarar?
+Rätt svar: Tidigast efter 10 sekunder
+Fel svar: Efter en kort paus om meddelandet är brådskande, annars direkt | Efter ungefär 10 minuter | Först efter landning
+Förklaring: TSFS anger minst 10 sekunder före andra anrop.
+
+50. [TSFS 2019:36 3:6] Höjdangivelse - nivå 2
+Fråga: Hur anges höjd med standardinställning?
+Rätt svar: Med FLYGNIVÅ eller FLIGHT LEVEL
+Fel svar: I regel med FOT | I regel med QFE | I regel som meter över banan
+Förklaring: 1013,2 hPa anges som flygnivå.
+
+51. [TSFS 2019:36 4:100] Transponder - nivå 2
+Fråga: Vad betyder TRANSPONDERHÖJD TILL?
+Rätt svar: Aktivera sändning av tryckhöjdsuppgift
+Fel svar: Ställ transpondern i standby men behåll Mode A-koden | Byt till nödfrekvens | Ställ in QFE
+Förklaring: SQUAWK CHARLIE innebär höjdrapportering.
+
+52. [TSFS 2019:36 4:106] Motläsning - nivå 3
+Fråga: Vad ska enligt TSFS alltid motläsas?
+Rätt svar: Flygväg, bana, QNH, genomgångsnivå, SSR-kod, frekvens, höjd, kurs och fartinstruktioner
+Fel svar: Vindriktning, QNH och bana men inte frekvens eller SSR-kod | Väderuppgifter behöver motläsas om de ingår i klareringen | Anropssignal och pilotens namn när radioförbindelsen upprättas
+Förklaring: TSFS kräver motläsning av flygsäkerhetsrelaterade delar.
+
+53. [TSFS 2019:36 4:15] Villkorsklarering - nivå 3
+Fråga: Vilken ordning ska en villkorlig klarering ha?
+Rätt svar: Anropssignal, villkor, klarering och kort repetition av villkoret
+Fel svar: Klarering, väder, QNH och färdplan | Villkor sist utan repetition | Klarering och villkor räcker om trafiken är i sikte
+Förklaring: Ordningen minskar risk för missförstånd.
+
+54. [TSFS 2019:36 4:17] Frekvensskifte - nivå 3
+Fråga: Vad betyder KVARLIGG FREKVENSEN?
+Rätt svar: Fortsätt lyssna och sänd på nuvarande frekvens
+Fel svar: Byt frekvens omedelbart | Avvakta på frekvensen utan att sända tills ny instruktion ges | Passa nödfrekvensen parallellt men lämna ordinarie frekvens
+Förklaring: REMAIN THIS FREQUENCY betyder att stanna på aktuell frekvens.
+
+55. [TSFS 2019:36 4:42] Taxning - nivå 3
+Fråga: Vilken fras används för att begära taxning?
+Rätt svar: BEGÄR TAXI
+Fel svar: KLART STARTA | ANMÄL MARKSIKT | TRANSPONDER IDENT
+Förklaring: Taxibegäran innehåller ofta position och avsikt.
+
+56. [TSFS 2019:36 4:43] Taxning - nivå 3
+Fråga: Vad betyder HÅLL FÖRE BANA 21?
+Rätt svar: Stanna före bana 21 och korsa inte banan
+Fel svar: Korsa banan omedelbart | Starta från bana 21 | Lämna frekvensen
+Förklaring: HOLD SHORT är en säkerhetskritisk instruktion.
+
+57. [TSFS 2019:36 4:46] Start - nivå 3
+Fråga: Vilken svensk fras motsvarar cleared for take-off?
+Rätt svar: KLART STARTA
+Fel svar: KLAR FÖR START | START BEVILJAS | BANA FRI FÖR START
+Förklaring: Startklarering ges med KLART STARTA.
+
+58. [TSFS 2019:36 4:46] Start - nivå 3
+Fråga: Vad betyder AVBRYT STARTEN?
+Rätt svar: Startklareringen återtas innan starten har påbörjats
+Fel svar: Starten är klarerad | Piloten ska byta frekvens | Piloten ska landa direkt
+Förklaring: Det används när start inte ska genomföras.
+
+59. [TSFS 2019:36 4:52] Landning - nivå 3
+Fråga: Vilken svensk fras motsvarar cleared to land?
+Rätt svar: KLART LANDA
+Fel svar: KLAR FÖR LANDNING | LANDNING BEVILJAS | BANA FRI FÖR LANDNING
+Förklaring: Landningsklarering ges med KLART LANDA.
+
+60. [TSFS 2019:36 4:54] Pådrag - nivå 3
+Fråga: Vad betyder GO AROUND på svenska?
+Rätt svar: AVBRYT OCH DRA PÅ
+Fel svar: FORTSÄTT INFLYGNINGEN | AVBRYT LANDNINGEN | GÖR ETT NYTT TRAFIKVARV
+Förklaring: GO AROUND används när inflygningen ska avbrytas.
+
+61. [TSFS 2019:36 4:56] Efter landning - nivå 3
+Fråga: När får frasen HAR LÄMNAT BANAN användas?
+Rätt svar: När hela luftfartyget passerat relevant väntplats
+Fel svar: Så fort noshjulet lämnat asfalten | När piloten svänger final | Innan banan korsas
+Förklaring: Runway vacated används först när hela luftfartyget passerat väntplats.
+
+62. [TSFS 2019:36 4:69] Radiobortfall - nivå 2
+Fråga: Vilken fras kan ATS använda om radiobortfall misstänks?
+Rätt svar: OM DU LÄSER MIG ...
+Fel svar: KAVV-OH-KEJ | Q-N-HELGE | KLART STARTA
+Förklaring: Frasen kan följas av manöverinstruktion eller transponderåtgärd.
+
+63. [TSFS 2019:36 4:92] Transponder - nivå 2
+Fråga: Vilken fras används för att instruera transponderkod?
+Rätt svar: TRANSPONDER följt av koden
+Fel svar: QNH följt av koden | CAVOK följt av koden | BANA följt av koden
+Förklaring: SQUAWK översätts ofta till TRANSPONDER följt av kod.
+
+64. [TSFS 2019:36 9:10] Väderuppläsning - nivå 3
+Fråga: Vad betyder FEW i molnrapportering?
+Rätt svar: Enstaka moln
+Fel svar: Spridda moln | Brutet molntäcke | Mulet
+Förklaring: FEW betyder enstaka moln.
+
+65. [TSFS 2019:36 9:11] Väderuppläsning - nivå 2
+Fråga: Hur ska CAVOK läsas enligt TSFS?
+Rätt svar: KAVV-OH-KEJ
+Fel svar: C-A-V-O-K bokstaverat med ICAO-alfabetet | CAV-O-KAY | KAVOK utan särskilt uttal
+Förklaring: TSFS anger uttalet KAVV-OH-KEJ.
+
+66. [TSFS 2019:36 9:14] Väderuppläsning - nivå 3
+Fråga: Hur läses QNH på svenska enligt TSFS?
+Rätt svar: Q-N-HELGE följt av tryckvärdet
+Fel svar: Q-N-HOTEL följt av tryckvärdet när engelska används | QNH utelämnas | Q-F-ERIK följt av vind
+Förklaring: TSFS anger svensk läsning Q-N-HELGE.
+
+67. [TSFS 2019:36 9:16] Väderuppläsning - nivå 2
+Fråga: Vad betyder NOSIG?
+Rätt svar: Ingen signifikant ändring
+Fel svar: Ingen sikt rapporterad | Ingen signifikant trafik | Ny signifikant vädervarning
+Förklaring: NOSIG betyder no significant change.
+
+68. [TSFS 2019:36 9:6] Väderuppläsning - nivå 3
+Fråga: Hur ska vinduppgift i väderuppläsning inledas?
+Rätt svar: Med MARK VIND eller SURFACE WIND
+Fel svar: Med QNH | Med CAVOK | Med RUNWAY VACATED
+Förklaring: Vindriktning läses med tre siffror följt av grader.
