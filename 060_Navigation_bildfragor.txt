@@ -1,100 +1,58 @@
-050 Meteorologi
-===============
+060 Navigation
+==============
 
-1. [050 IMG 01] Bildfråga: ISA - nivå 2
-Bild: images_quizsafe/met_quizsafe_isa_curve.png
-Fråga: I det nedersta lagret i bilden, vad visar temperaturkurvan när höjden ökar?
-Rätt svar: Temperaturen sjunker med höjden
-Fel svar: Temperaturen stiger med höjden hela vägen upp | Temperaturen är konstant redan från marknivå | Trycket ökar när temperaturen sjunker
-Förklaring: I ISA avtar temperaturen i troposfären upp till tropopausen.
+1. [060 IMG 01] Bildfråga: Koordinatsystem - nivå 2
+Bild: images_quizsafe/060_IMG_01.png
+Fråga: Vilka linjer i bilden används för longitud?
+Rätt svar: Meridianerna från pol till pol
+Fel svar: Parallellcirklarna runt jorden | Isobarerna på en väderkarta | Höjdkurvorna på en topografisk karta
+Förklaring: Longitud mäts med meridianer som går mellan polerna.
 
-2. [050 IMG 02] Bildfråga: Tryck - nivå 2
-Bild: images_quizsafe/met_quizsafe_pressure_curve.png
-Fråga: Vad visar kurvans form om tryckminskningen med höjd?
-Rätt svar: Trycket minskar snabbt nära marken och sedan mer långsamt per höjdmeter
-Fel svar: Trycket minskar exakt lika mycket per meter hela vägen | Trycket ökar med höjden över molnbasen | Trycket blir noll redan vid 18 000 ft
-Förklaring: Kurvan är krökt eftersom luftens densitet också avtar med höjden.
+2. [060 IMG 02] Bildfråga: Loxodrom - nivå 2
+Bild: images_quizsafe/060_IMG_02.png
+Fråga: Vilken egenskap beskriver loxodromen bäst?
+Rätt svar: Konstant kurs över jordytan
+Fel svar: Alltid kortaste vägen mellan punkterna | Alltid en cirkel parallell med ekvatorn | Alltid en linje som passerar båda polerna
+Förklaring: En loxodrom håller konstant vinkel mot meridianerna och därmed konstant kurs.
 
-3. [050 IMG 03] Bildfråga: Inversion - nivå 2
-Bild: images_quizsafe/met_quizsafe_inversion_photo.png
-Fråga: Vilken vädersituation är mest rimlig utifrån bilden?
-Rätt svar: Markinversion med kall luft och dimma/dis nära marken
-Fel svar: Kraftig kallfront med cumulonimbus längs hela horisonten | Torr termik med mycket god vertikal omblandning | Föhnvind med klar sikt i dalbotten
-Förklaring: Kall mark och svag vind kan ge markinversion och siktnedsättning nära marken.
+3. [060 IMG 03] Bildfråga: Variation - nivå 3
+Bild: images_quizsafe/060_IMG_03.png
+Fråga: I bilden ligger MN öster om TN. Hur påverkas magnetisk kurs jämfört med sann kurs?
+Rätt svar: Magnetisk kurs blir mindre än sann kurs
+Fel svar: Magnetisk kurs blir större än sann kurs | Compass course blir alltid lika med true course | Deviationen kan ignoreras eftersom variationen är östlig
+Förklaring: Vid östlig variation är magnetic mindre än true.
 
-4. [050 IMG 04] Bildfråga: Sjöbris/landbris - nivå 3
-Bild: images_quizsafe/met_quizsafe_sea_breeze_diagram.png
-Fråga: Vilken marknära vindriktning visar dagläget i diagrammet?
-Rätt svar: Från hav mot land
-Fel svar: Från land mot hav | Rakt upp från havsytan utan horisontell vind | Parallellt med kusten utan tryckskillnad
-Förklaring: Dagtid värms land snabbare och luft strömmar in från havet.
+4. [060 IMG 04] Bildfråga: Variation/deviation - nivå 3
+Bild: images_quizsafe/060_IMG_04.png
+Fråga: Använd tabellen: TT 025, variation W12 och deviation +3. Vad blir CT?
+Rätt svar: 034°
+Fel svar: 013° | 037° | 040°
+Förklaring: Västlig variation adderas: 025 + 12 = 037 M. Deviation +3 ger CT 034 i tabellmetoden.
 
-5. [050 IMG 05] Bildfråga: Vind/lågtryck - nivå 2
-Bild: images_quizsafe/met_quizsafe_nh_winds_diagram.png
-Fråga: Vilket rotationsmönster hör till lågtrycket på norra halvklotet?
-Rätt svar: Moturs cirkulation
-Fel svar: Medurs cirkulation | Ingen cirkulation, bara radiellt utåt | Samma riktning som runt högtryck
-Förklaring: På norra halvklotet går vinden moturs runt lågtryck.
+5. [060 IMG 05] Bildfråga: Bäring - nivå 3
+Bild: images_quizsafe/060_IMG_05.png
+Fråga: Vilken typ av bäring mäts från flygplanets längdaxel i bilden?
+Rätt svar: Relativ bäring
+Fel svar: QNH-bäring | Sann latitud | Datumlinjebäring
+Förklaring: Relativ bäring mäts relativt flygplanets nos/längdaxel.
 
-6. [050 IMG 06] Bildfråga: Kallfront - nivå 2
-Bild: images_quizsafe/met_quizsafe_coldfront_map.png
-Fråga: Vilken fronttyp motsvaras av den blå linjen med trianglar på kartan?
-Rätt svar: Kallfront
-Fel svar: Varmfront | Stationär front | Ocklusionsfront utan kall luft
-Förklaring: Blå trianglar används för kallfront.
+6. [060 IMG 06] Bildfråga: Latitud och distans - nivå 3
+Bild: images_quizsafe/060_IMG_06.png
+Fråga: Vilket värde saknas i den maskerade gula rutan för 1 minut bågavstånd?
+Rätt svar: 1 nautisk mil
+Fel svar: 1 kilometer | 60 nautiska mil | 1852 kilometer
+Förklaring: En bågminut längs meridian eller ekvator motsvarar cirka 1852 m, alltså 1 NM.
 
-7. [050 IMG 07] Bildfråga: Konvektiva moln - nivå 3
-Bild: images_quizsafe/met_quizsafe_cb_cloud_photo.png
-Fråga: Vilket molnslag passar bäst till den stora vertikala utvecklingen i bilden?
-Rätt svar: Cumulonimbus
-Fel svar: Cirrostratus | Stratus nebulosus | Altostratus translucidus
-Förklaring: Kraftig vertikal utveckling och städform är typiskt för Cb.
+7. [060 IMG 07] Bildfråga: UTC - nivå 3
+Bild: images_quizsafe/060_IMG_07.png
+Fråga: Om Sverige har sommartid och lokal tid är 14:30, vad blir UTC?
+Rätt svar: 12:30 UTC
+Fel svar: 13:30 UTC | 14:30 UTC | 16:30 UTC
+Förklaring: Svensk sommartid är UTC+2, alltså lokal tid minus två timmar.
 
-8. [050 IMG 08] Bildfråga: Luftmassor - nivå 3
-Bild: images_quizsafe/met_quizsafe_airmass_layers.png
-Fråga: Vilken tolkning passar bäst när en varmare luftmassa ligger över kallare luft?
-Rätt svar: Den varmare luften har lägre densitet och tenderar att ligga över den kallare
-Fel svar: Den varmare luften har högre densitet och pressas alltid under den kallare | De två luftmassorna får alltid exakt samma tryck överallt | Luftmassornas temperatur påverkar inte densiteten
-Förklaring: Varm luft har lägre densitet än kall luft och hamnar därför normalt ovanför.
-
-9. [050 IMG 09] Bildfråga: Höjdmätarinställning - nivå 3
-Bild: images_quizsafe/met_quizsafe_altimeter_rows.png
-Fråga: I den maskerade bilden: vilket fall motsvarar höjdmätarinställning för flygnivåer?
-Rätt svar: Fall C
-Fel svar: Fall A | Fall B | Inget av fallen
-Förklaring: STD/1013 används för flygnivåer; i den maskerade bilden är det fall C.
-
-10. [050 IMG 10] Bildfråga: Isbildning - nivå 2
-Bild: images_quizsafe/met_quizsafe_icing_photo.png
-Fråga: Vad är den största flygsäkerhetsrisken som bilden illustrerar?
-Rätt svar: Is/snö/frost på luftfartygets ytor före flygning
-Fel svar: För hög QNH-inställning i trafikvarvet | För låg radiohöjd på final | För stor magnetisk variation
-Förklaring: Beläggning på vingar och stabilisator kan kraftigt försämra lyftkraft och prestanda.
-
-11. [050 IMG 11] Bildfråga: Förgasaris - nivå 2
-Bild: images_quizsafe/met_quizsafe_carb_ice_chart.png
-Fråga: Hur ska ett färgat riskfält i diagrammet användas praktiskt?
-Rätt svar: För att bedöma förgasarisrisk utifrån temperatur och fuktighet
-Fel svar: För att bestämma VOR-räckvidd utifrån flyghöjd | För att räkna ut magnetisk kurs från true track | För att avgöra molnbas från QNH
-Förklaring: Förgasaris bedöms bland annat med temperatur och luftfuktighet.
-
-12. [050 IMG 12] Bildfråga: Turbulens - nivå 2
-Bild: images_quizsafe/met_quizsafe_turbulence_cloud.png
-Fråga: Vilken risk är mest rimlig i närheten av den vädersituationen som bilden visar?
-Rätt svar: Turbulens och kraftiga upp-/nedvindar
-Fel svar: Stabil dimma utan vertikalrörelser | Endast magnetkompassfel | Bara sämre radiosändning
-Förklaring: Kraftiga konvektiva moln och skurar är kopplade till turbulens.
-
-13. [050 IMG 13] Bildfråga: Vindskjuvning - nivå 2
-Bild: images_quizsafe/met_quizsafe_windshear_diagram.png
-Fråga: Vad visar de olika vindpilarna i höjdled?
-Rätt svar: Vindskjuvning: vind ändras snabbt med höjd eller avstånd
-Fel svar: Enbart sjöbris utan vertikal förändring | En loxodrom mellan två punkter | En konstant geostrofisk vind utan turbulens
-Förklaring: Vindskjuvning innebär förändring i vindriktning eller hastighet över kort sträcka/höjd.
-
-14. [050 IMG 14] Bildfråga: Cumulonimbus - nivå 3
-Bild: images_quizsafe/met_quizsafe_cb_warning.png
-Fråga: Vilken fara är mest kopplad till symbolen i bilden?
-Rätt svar: Åska och cumulonimbusrelaterat väder
-Fel svar: Stratusdimma i stabil luft | Siktförbättring i högtryck | Låg molnbas utan nederbörd
-Förklaring: CB/åska kan ge turbulens, hagel, blixt och kraftiga nedvindar.
+8. [060 IMG 08] Bildfråga: Svängfel - nivå 2
+Bild: images_quizsafe/060_IMG_08.png
+Fråga: Vilken kompassregel hör till svängfel på nordlig respektive sydlig kurs?
+Rätt svar: UNOS: undershoot north, overshoot south
+Fel svar: ANDS: accelerate north, decelerate south | EAST/WEST: east add, west subtract | QDM/QDR: course to/from station
+Förklaring: UNOS beskriver svängfel: undershoot north och overshoot south.
