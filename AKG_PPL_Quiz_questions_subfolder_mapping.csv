@@ -1,0 +1,294 @@
+course,question_number,ref,image,source,question
+050 Meteorologi,1,050 01 01 00,images_all/050_Q_001.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om troposfären?
+050 Meteorologi,2,050 01 01 00,images_all/050_Q_002.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är tropopausen?
+050 Meteorologi,3,050 01 02 01,images_all/050_Q_003.jpg,050_Meteorologi_fragor_och_svar.txt,Vilken formel omvandlar Celsius till Fahrenheit?
+050 Meteorologi,4,050 01 02 02,images_all/050_Q_004.jpg,050_Meteorologi_fragor_och_svar.txt,Hur skiljer sig verklig temperaturgradient från ISA?
+050 Meteorologi,5,050 01 02 03,images_all/050_Q_005.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är advektion?
+050 Meteorologi,6,050 01 02 03,images_all/050_Q_006.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om solens och jordens strålning?
+050 Meteorologi,7,050 01 02 04,images_all/050_Q_007.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket väder är typiskt vid labil skiktning?
+050 Meteorologi,8,050 01 02 05,images_all/050_Q_008.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är markinversion?
+050 Meteorologi,9,050 01 02 05,images_all/050_Q_009.jpg,050_Meteorologi_fragor_och_svar.txt,Vilken inversion kopplas till sjunkande luft i högtryck?
+050 Meteorologi,10,050 01 02 06,images_all/050_Q_010.jpg,050_Meteorologi_fragor_och_svar.txt,Varför är temperaturen ofta jämnare vid kusten än i inlandet?
+050 Meteorologi,11,050 01 03 01,images_all/050_Q_011.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är en isobar?
+050 Meteorologi,12,050 01 03 02,images_all/050_Q_012.jpg,050_Meteorologi_fragor_och_svar.txt,Hur förändras lufttrycket normalt med höjden?
+050 Meteorologi,13,050 01 03 03,images_all/050_Q_013.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är QNH?
+050 Meteorologi,14,050 01 03 03,images_all/050_Q_014.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är QFE?
+050 Meteorologi,15,050 01 03 04,images_all/050_Q_015.jpg,050_Meteorologi_fragor_och_svar.txt,Vad menas med standardtid?
+050 Meteorologi,16,050 01 04 01,images_all/050_Q_016.jpg,050_Meteorologi_fragor_och_svar.txt,Vad händer med luftens densitet när temperaturen ökar vid samma tryck?
+050 Meteorologi,17,050 01 04 01,images_all/050_Q_017.jpg,050_Meteorologi_fragor_och_svar.txt,Hur påverkar hög temperatur startprestanda?
+050 Meteorologi,18,050 01 05 00,images_all/050_Q_018.jpg,050_Meteorologi_fragor_och_svar.txt,Vilka ISA-värden gäller vid havsytan?
+050 Meteorologi,19,050 01 05 00,images_all/050_Q_019.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket temperaturavtagande används i ISA upp till tropopausen?
+050 Meteorologi,20,050 01 06 01,images_all/050_Q_020.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är skillnaden mellan altitude och height?
+050 Meteorologi,21,050 01 06 02,images_all/050_Q_021.jpg,050_Meteorologi_fragor_och_svar.txt,"När används standardinställningen 1013,2 hPa?"
+050 Meteorologi,22,050 01 06 03,images_all/050_Q_022.jpg,050_Meteorologi_fragor_och_svar.txt,Hur mycket motsvarar ungefär 1 hPa på höjdmätaren?
+050 Meteorologi,23,050 01 06 04,images_all/050_Q_023.jpg,050_Meteorologi_fragor_och_svar.txt,Hur kan stark vind över kuperad terräng påverka höjdmätningen?
+050 Meteorologi,24,050 02 01 01,images_all/050_Q_024.jpg,050_Meteorologi_fragor_och_svar.txt,Vad anger vindriktning?
+050 Meteorologi,25,050 02 01 01,images_all/050_Q_025.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket samband är ungefär rätt?
+050 Meteorologi,26,050 02 01 01,images_all/050_Q_026.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är skillnaden mellan vind i METAR/TAF och vind vid start/landning?
+050 Meteorologi,27,050 02 02 01,images_all/050_Q_027.jpg,050_Meteorologi_fragor_och_svar.txt,Åt vilket håll verkar tryckgradientkraften?
+050 Meteorologi,28,050 02 02 01,images_all/050_Q_028.jpg,050_Meteorologi_fragor_och_svar.txt,Hur verkar Corioliskraften på norra halvklotet?
+050 Meteorologi,29,050 02 02 02,images_all/050_Q_029.jpg,050_Meteorologi_fragor_och_svar.txt,Varför är vinden ofta byigare över land än över hav?
+050 Meteorologi,30,050 02 02 03,images_all/050_Q_030.jpg,050_Meteorologi_fragor_och_svar.txt,Vad ger konvergens nära marken ofta?
+050 Meteorologi,31,050 02 03 01,images_all/050_Q_031.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket påstående beskriver mycket kort den globala cirkulationen?
+050 Meteorologi,32,050 02 04 01,images_all/050_Q_032.jpg,050_Meteorologi_fragor_och_svar.txt,När uppstår sjöbris typiskt?
+050 Meteorologi,33,050 02 04 01,images_all/050_Q_033.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är föhnvind?
+050 Meteorologi,34,050 02 05 00,images_all/050_Q_034.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om förutsättningar för lävågor?
+050 Meteorologi,35,050 02 05 01,images_all/050_Q_035.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket flygväder kan lävågor ge på läsidan av berg?
+050 Meteorologi,36,050 02 06 01,images_all/050_Q_036.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är wake turbulence?
+050 Meteorologi,37,050 03 01 01,images_all/050_Q_037.jpg,050_Meteorologi_fragor_och_svar.txt,Hur varierar luftens maximala innehåll av vattenånga med temperaturen?
+050 Meteorologi,38,050 03 01 03,images_all/050_Q_038.jpg,050_Meteorologi_fragor_och_svar.txt,Vad betyder liten skillnad mellan temperatur och daggpunkt?
+050 Meteorologi,39,050 03 01 04,images_all/050_Q_039.jpg,050_Meteorologi_fragor_och_svar.txt,Vad beskriver blandningsförhållandet i meteorologi?
+050 Meteorologi,40,050 03 02 01,images_all/050_Q_040.jpg,050_Meteorologi_fragor_och_svar.txt,Vilken fasförändring frigör latent värme?
+050 Meteorologi,41,050 03 03 01,images_all/050_Q_041.jpg,050_Meteorologi_fragor_och_svar.txt,Varför är fuktadiabatisk avkylning mindre än torradiabatisk?
+050 Meteorologi,42,050 04 01 01,images_all/050_Q_042.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om processer som leder till molnbildning?
+050 Meteorologi,43,050 04 01 02,images_all/050_Q_043.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om cumulonimbus?
+050 Meteorologi,44,050 04 01 02,images_all/050_Q_044.jpg,050_Meteorologi_fragor_och_svar.txt,Vad indikerar altocumulus lenticularis ofta?
+050 Meteorologi,45,050 04 01 02,images_all/050_Q_045.jpg,050_Meteorologi_fragor_och_svar.txt,Vad kan altocumulus castellanus indikera?
+050 Meteorologi,46,050 04 01 03,images_all/050_Q_046.jpg,050_Meteorologi_fragor_och_svar.txt,Hur påverkar en inversion ofta molnutveckling?
+050 Meteorologi,47,050 04 02 01,images_all/050_Q_047.jpg,050_Meteorologi_fragor_och_svar.txt,Vad betyder RVR?
+050 Meteorologi,48,050 04 02 02,images_all/050_Q_048.jpg,050_Meteorologi_fragor_och_svar.txt,Vad gynnar strålningsdimma?
+050 Meteorologi,49,050 04 02 03,images_all/050_Q_049.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är advektionsdimma?
+050 Meteorologi,50,050 04 02 04,images_all/050_Q_050.jpg,050_Meteorologi_fragor_och_svar.txt,När bildas sjörök typiskt?
+050 Meteorologi,51,050 04 02 05,images_all/050_Q_051.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är en vanlig orsak till frontdimma?
+050 Meteorologi,52,050 04 02 06,images_all/050_Q_052.jpg,050_Meteorologi_fragor_och_svar.txt,Hur bildas orografisk dimma?
+050 Meteorologi,53,050 05 01 01,images_all/050_Q_053.jpg,050_Meteorologi_fragor_och_svar.txt,Vilka två huvudprocesser nämns för nederbördsbildning?
+050 Meteorologi,54,050 05 02 01,images_all/050_Q_054.jpg,050_Meteorologi_fragor_och_svar.txt,Vilken nederbörd ger särskilt stor isbildningsrisk?
+050 Meteorologi,55,050 06 01 01,images_all/050_Q_055.jpg,050_Meteorologi_fragor_och_svar.txt,Vad menas med kallmassa?
+050 Meteorologi,56,050 06 01 01,images_all/050_Q_056.jpg,050_Meteorologi_fragor_och_svar.txt,Vad menas med varmmassa?
+050 Meteorologi,57,050 06 01 02,images_all/050_Q_057.jpg,050_Meteorologi_fragor_och_svar.txt,Hur kan en luftmassa modifieras på väg mot Skandinavien?
+050 Meteorologi,58,050 06 02 01,images_all/050_Q_058.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är en front?
+050 Meteorologi,59,050 06 02 02,images_all/050_Q_059.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket väder är typiskt före en varmfront?
+050 Meteorologi,60,050 06 02 03,images_all/050_Q_060.jpg,050_Meteorologi_fragor_och_svar.txt,Vad kännetecknar ofta en kallfront?
+050 Meteorologi,61,050 06 02 04,images_all/050_Q_061.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket väder är typiskt i varmsektorn mellan varm- och kallfront?
+050 Meteorologi,62,050 06 02 05,images_all/050_Q_062.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket väder är vanligt bakom en kallfront?
+050 Meteorologi,63,050 06 02 06,images_all/050_Q_063.jpg,050_Meteorologi_fragor_och_svar.txt,Hur bildas en ocklusionsfront?
+050 Meteorologi,64,050 06 02 07,images_all/050_Q_064.jpg,050_Meteorologi_fragor_och_svar.txt,Vad kännetecknar en stationär front?
+050 Meteorologi,65,050 06 02 08,images_all/050_Q_065.jpg,050_Meteorologi_fragor_och_svar.txt,Vad händer ofta under ett frontlågtrycks livscykel?
+050 Meteorologi,66,050 06 02 09,images_all/050_Q_066.jpg,050_Meteorologi_fragor_och_svar.txt,Vilken förändring kan man vänta när ett typiskt frontlågtryck passerar?
+050 Meteorologi,67,050 07 02 01,images_all/050_Q_067.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket väder kan högtryck ge vintertid?
+050 Meteorologi,68,050 07 03 01,images_all/050_Q_068.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket väder kan ett lågtryck eller tråg ge vid labil skiktning?
+050 Meteorologi,69,050 08 03 01,images_all/050_Q_069.jpg,050_Meteorologi_fragor_och_svar.txt,Vad innebär ett typiskt västläge över norra Europa?
+050 Meteorologi,70,050 08 03 02,images_all/050_Q_070.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket högtrycksområde förknippas ofta med varm och fuktig maritim tropikluft mot Europa?
+050 Meteorologi,71,050 08 03 03,images_all/050_Q_071.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket väder kan förekomma i områden med liten lufttrycksgradient?
+050 Meteorologi,72,050 08 04 01,images_all/050_Q_072.jpg,050_Meteorologi_fragor_och_svar.txt,Vad driver den säsongsbaserade cirkulationen i troposfären?
+050 Meteorologi,73,050 09 01 01,images_all/050_Q_073.jpg,050_Meteorologi_fragor_och_svar.txt,Vilka grundförutsättningar krävs för flygplansis?
+050 Meteorologi,74,050 09 01 02,images_all/050_Q_074.jpg,050_Meteorologi_fragor_och_svar.txt,"Vilken typ av is är ofta genomskinlig, hård och svår att avlägsna?"
+050 Meteorologi,75,050 09 01 03,images_all/050_Q_075.jpg,050_Meteorologi_fragor_och_svar.txt,"Varför är start med frost, snö eller is på vingen farligt?"
+050 Meteorologi,76,050 09 02 01,images_all/050_Q_076.jpg,050_Meteorologi_fragor_och_svar.txt,Varför är turbulens en flygsäkerhetsrisk?
+050 Meteorologi,77,050 09 03 01,images_all/050_Q_077.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är vindskjuvning?
+050 Meteorologi,78,050 09 03 02,images_all/050_Q_078.jpg,050_Meteorologi_fragor_och_svar.txt,I vilka vädersituationer kan vindskjuvning uppstå?
+050 Meteorologi,79,050 09 03 03,images_all/050_Q_079.jpg,050_Meteorologi_fragor_och_svar.txt,Varför är vindskjuvning särskilt farlig vid start och landning?
+050 Meteorologi,80,050 09 04 01,images_all/050_Q_080.jpg,050_Meteorologi_fragor_och_svar.txt,Vad gynnar åska?
+050 Meteorologi,81,050 09 04 02,images_all/050_Q_081.jpg,050_Meteorologi_fragor_och_svar.txt,Vilka tre stadier har en åskcell?
+050 Meteorologi,82,050 09 04 03,images_all/050_Q_082.jpg,050_Meteorologi_fragor_och_svar.txt,Vilken risk kan blixturladdning innebära vid flygning nära åska?
+050 Meteorologi,83,050 09 04 04,images_all/050_Q_083.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är en microburst i samband med Cb?
+050 Meteorologi,84,050 09 04 05,images_all/050_Q_084.jpg,050_Meteorologi_fragor_och_svar.txt,Hur bör VFR-flygning hantera stora cumulonimbusmoln?
+050 Meteorologi,85,050 09 06 01,images_all/050_Q_085.jpg,050_Meteorologi_fragor_och_svar.txt,Hur kan en inversion påverka flygprestanda?
+050 Meteorologi,86,050 09 08 01,images_all/050_Q_086.jpg,050_Meteorologi_fragor_och_svar.txt,Hur kan fjäll- och bergsterräng påverka vädret?
+050 Meteorologi,87,050 09 08 02,images_all/050_Q_087.jpg,050_Meteorologi_fragor_och_svar.txt,Vilka vindfenomen är särskilt viktiga i fjällterräng?
+050 Meteorologi,88,050 09 08 03,images_all/050_Q_088.jpg,050_Meteorologi_fragor_och_svar.txt,Hur uppstår ofta inversion i en dalgång?
+050 Meteorologi,89,050 09 09 01,images_all/050_Q_089.jpg,050_Meteorologi_fragor_och_svar.txt,Vilken nederbörd försämrar ofta sikten mest för VFR?
+050 Meteorologi,90,050 09 09 02,images_all/050_Q_090.jpg,050_Meteorologi_fragor_och_svar.txt,Vilka fenomen kan försämra sikten utan att det regnar kraftigt?
+050 Meteorologi,91,050 10 01 01,images_all/050_Q_091.jpg,050_Meteorologi_fragor_och_svar.txt,Vad ingår typiskt i en markobservation för flygväder?
+050 Meteorologi,92,050 10 01 02,images_all/050_Q_092.jpg,050_Meteorologi_fragor_och_svar.txt,Vad används radiosonder till?
+050 Meteorologi,93,050 10 01 03,images_all/050_Q_093.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är en begränsning med satellitbilder?
+050 Meteorologi,94,050 10 01 04,images_all/050_Q_094.jpg,050_Meteorologi_fragor_och_svar.txt,Vad visar väderradar främst?
+050 Meteorologi,95,050 10 01 05,images_all/050_Q_095.jpg,050_Meteorologi_fragor_och_svar.txt,Varför är AIREP och AIREP SPECIAL viktiga?
+050 Meteorologi,96,050 10 02 01,images_all/050_Q_096.jpg,050_Meteorologi_fragor_och_svar.txt,Vad används en Significant Weather Chart för?
+050 Meteorologi,97,050 10 02 02,images_all/050_Q_097.jpg,050_Meteorologi_fragor_och_svar.txt,Vad visar en analyserad markväderkarta?
+050 Meteorologi,98,050 10 03 01,images_all/050_Q_098.jpg,050_Meteorologi_fragor_och_svar.txt,Varför är giltighetstider viktiga för flygväderrapporter och prognoser?
+050 Meteorologi,99,050 10 03 02,images_all/050_Q_099.jpg,050_Meteorologi_fragor_och_svar.txt,Vilka källor kan följas under flygning för väderutveckling?
+050 Meteorologi,100,050 10 03 03,images_all/050_Q_100.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om METAR?
+050 Meteorologi,101,050 10 03 03,images_all/050_Q_101.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är TAF?
+050 Meteorologi,102,050 10 03 04,images_all/050_Q_102.jpg,050_Meteorologi_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om SIGMET?
+050 Meteorologi,103,050 10 04 01,images_all/050_Q_103.jpg,050_Meteorologi_fragor_och_svar.txt,Vad är en uppgift för flygvädertjänstens organisation?
+050 Meteorologi,104,050 IMG 01,images_all/050_Q_104.jpg,050_Meteorologi_bildfragor.txt,"I det nedersta lagret i bilden, vad visar temperaturkurvan när höjden ökar?"
+050 Meteorologi,105,050 IMG 02,images_all/050_Q_105.jpg,050_Meteorologi_bildfragor.txt,Vad visar kurvans form om tryckminskningen med höjd?
+050 Meteorologi,106,050 IMG 03,images_all/050_Q_106.jpg,050_Meteorologi_bildfragor.txt,Vilken vädersituation är mest rimlig utifrån bilden?
+050 Meteorologi,107,050 IMG 04,images_all/050_Q_107.jpg,050_Meteorologi_bildfragor.txt,Vilken marknära vindriktning visar dagläget i diagrammet?
+050 Meteorologi,108,050 IMG 05,images_all/050_Q_108.jpg,050_Meteorologi_bildfragor.txt,Vilket rotationsmönster hör till lågtrycket på norra halvklotet?
+050 Meteorologi,109,050 IMG 06,images_all/050_Q_109.jpg,050_Meteorologi_bildfragor.txt,Vilken fronttyp motsvaras av den blå linjen med trianglar på kartan?
+050 Meteorologi,110,050 IMG 07,images_all/050_Q_110.jpg,050_Meteorologi_bildfragor.txt,Vilket molnslag passar bäst till den stora vertikala utvecklingen i bilden?
+050 Meteorologi,111,050 IMG 08,images_all/050_Q_111.jpg,050_Meteorologi_bildfragor.txt,Vilken tolkning passar bäst när en varmare luftmassa ligger över kallare luft?
+050 Meteorologi,112,050 IMG 09,images_all/050_Q_112.jpg,050_Meteorologi_bildfragor.txt,I den maskerade bilden: vilket fall motsvarar höjdmätarinställning för flygnivåer?
+050 Meteorologi,113,050 IMG 10,images_all/050_Q_113.jpg,050_Meteorologi_bildfragor.txt,Vad är den största flygsäkerhetsrisken som bilden illustrerar?
+050 Meteorologi,114,050 IMG 11,images_all/050_Q_114.jpg,050_Meteorologi_bildfragor.txt,Hur ska ett färgat riskfält i diagrammet användas praktiskt?
+050 Meteorologi,115,050 IMG 12,images_all/050_Q_115.jpg,050_Meteorologi_bildfragor.txt,Vilken risk är mest rimlig i närheten av den vädersituationen som bilden visar?
+050 Meteorologi,116,050 IMG 13,images_all/050_Q_116.jpg,050_Meteorologi_bildfragor.txt,Vad visar de olika vindpilarna i höjdled?
+050 Meteorologi,117,050 IMG 14,images_all/050_Q_117.jpg,050_Meteorologi_bildfragor.txt,Vilken fara är mest kopplad till symbolen i bilden?
+060 Navigation,1,061 01 01 01,images_all/060_Q_001.jpg,060_Navigation_fragor_och_svar.txt,Vad är huvudorsaken till årstiderna?
+060 Navigation,2,061 01 01 01,images_all/060_Q_002.jpg,060_Navigation_fragor_och_svar.txt,Vad orsakar dygnsvariationer i solens läge?
+060 Navigation,3,061 01 02 01,images_all/060_Q_003.jpg,060_Navigation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om storcirkel?
+060 Navigation,4,061 01 02 01,images_all/060_Q_004.jpg,060_Navigation_fragor_och_svar.txt,Vad är en loxodrom?
+060 Navigation,5,061 01 02 01,images_all/060_Q_005.jpg,060_Navigation_fragor_och_svar.txt,Vad är en meridian?
+060 Navigation,6,061 01 02 03,images_all/060_Q_006.jpg,060_Navigation_fragor_och_svar.txt,Vad anger latitud?
+060 Navigation,7,061 01 02 03,images_all/060_Q_007.jpg,060_Navigation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om 1 minut latitud?
+060 Navigation,8,061 01 02 04,images_all/060_Q_008.jpg,060_Navigation_fragor_och_svar.txt,Vad anger longitud?
+060 Navigation,9,061 01 02 05,images_all/060_Q_009.jpg,060_Navigation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om positionsangivelse med latitud och longitud?
+060 Navigation,10,061 01 03 01,images_all/060_Q_010.jpg,060_Navigation_fragor_och_svar.txt,Vad är soltid?
+060 Navigation,11,061 01 03 02,images_all/060_Q_011.jpg,060_Navigation_fragor_och_svar.txt,Sverige har sommartid UTC+2. Vad är 14:30 lokal tid i UTC?
+060 Navigation,12,061 01 03 03,images_all/060_Q_012.jpg,060_Navigation_fragor_och_svar.txt,Vad betyder LMT?
+060 Navigation,13,061 01 03 04,images_all/060_Q_013.jpg,060_Navigation_fragor_och_svar.txt,Vad är standardtid?
+060 Navigation,14,061 01 03 05,images_all/060_Q_014.jpg,060_Navigation_fragor_och_svar.txt,Vad händer när man passerar internationella datumlinjen?
+060 Navigation,15,061 01 03 06,images_all/060_Q_015.jpg,060_Navigation_fragor_och_svar.txt,När börjar gryning enligt civil twilight-definitionen?
+060 Navigation,16,061 01 04 00,images_all/060_Q_016.jpg,060_Navigation_fragor_och_svar.txt,Hur delas horisonten normalt in för navigation?
+060 Navigation,17,061 01 04 01,images_all/060_Q_017.jpg,060_Navigation_fragor_och_svar.txt,Vad är True North?
+060 Navigation,18,061 01 04 01,images_all/060_Q_018.jpg,060_Navigation_fragor_och_svar.txt,Vad är True Track?
+060 Navigation,19,061 01 04 02,images_all/060_Q_019.jpg,060_Navigation_fragor_och_svar.txt,Vad är Magnetic North?
+060 Navigation,20,061 01 04 02,images_all/060_Q_020.jpg,060_Navigation_fragor_och_svar.txt,Vad är en isogon?
+060 Navigation,21,061 01 04 02,images_all/060_Q_021.jpg,060_Navigation_fragor_och_svar.txt,Vad är agonisk linje?
+060 Navigation,22,061 01 04 03,images_all/060_Q_022.jpg,060_Navigation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om deviation?
+060 Navigation,23,061 01 04 04,images_all/060_Q_023.jpg,060_Navigation_fragor_och_svar.txt,Vad är inklination?
+060 Navigation,24,061 01 04 04,images_all/060_Q_024.jpg,060_Navigation_fragor_och_svar.txt,Variation 5E och true heading 100. Vad blir magnetic heading?
+060 Navigation,25,061 01 05 01,images_all/060_Q_025.jpg,060_Navigation_fragor_och_svar.txt,Vad betyder NM?
+060 Navigation,26,061 01 05 02,images_all/060_Q_026.jpg,060_Navigation_fragor_och_svar.txt,Hur många meter är 1 nautisk mil?
+060 Navigation,27,061 01 05 03,images_all/060_Q_027.jpg,060_Navigation_fragor_och_svar.txt,Hur många NM är 10 minuter latitud?
+060 Navigation,28,061 02 01 00,images_all/060_Q_028.jpg,060_Navigation_fragor_och_svar.txt,Vad är variation?
+060 Navigation,29,061 02 02 00,images_all/060_Q_029.jpg,060_Navigation_fragor_och_svar.txt,Varför ska magnetiska föremål hållas borta från kompassen?
+060 Navigation,30,061 03 01 01,images_all/060_Q_030.jpg,060_Navigation_fragor_och_svar.txt,Vad kännetecknar Mercators projektion?
+060 Navigation,31,061 03 01 02,images_all/060_Q_031.jpg,060_Navigation_fragor_och_svar.txt,Vad kännetecknar Lamberts projektion?
+060 Navigation,32,061 03 02 01,images_all/060_Q_032.jpg,060_Navigation_fragor_och_svar.txt,Hur visas loxodromer på en Mercatorkarta?
+060 Navigation,33,061 03 02 02,images_all/060_Q_033.jpg,060_Navigation_fragor_och_svar.txt,Vilken egenskap har storcirklar på en Lambertkarta för svenska flygavstånd?
+060 Navigation,34,061 03 03 00,images_all/060_Q_034.jpg,060_Navigation_fragor_och_svar.txt,Vad avgör om en karta är lämplig för en viss VFR-flygning?
+060 Navigation,35,061 03 03 01,images_all/060_Q_035.jpg,060_Navigation_fragor_och_svar.txt,Hur anges en position normalt i latitud och longitud?
+060 Navigation,36,061 03 03 02,images_all/060_Q_036.jpg,060_Navigation_fragor_och_svar.txt,Vad betyder skalan 1:500 000?
+060 Navigation,37,061 03 03 02,images_all/060_Q_037.jpg,060_Navigation_fragor_och_svar.txt,Vad visar höjdkurvor på en karta?
+060 Navigation,38,061 03 03 03,images_all/060_Q_038.jpg,060_Navigation_fragor_och_svar.txt,Varför måste piloten kunna kartsymboler och VAC-symboler?
+060 Navigation,39,061 03 03 04,images_all/060_Q_039.jpg,060_Navigation_fragor_och_svar.txt,Vad används en transportör till på karta?
+060 Navigation,40,061 03 03 05,images_all/060_Q_040.jpg,060_Navigation_fragor_och_svar.txt,Vad innebär det att plotta en kurs på en Lambertkarta?
+060 Navigation,41,061 04 01 01,images_all/060_Q_041.jpg,060_Navigation_fragor_och_svar.txt,Hur tar man ut en track mellan brytpunkter?
+060 Navigation,42,061 04 01 01,images_all/060_Q_042.jpg,060_Navigation_fragor_och_svar.txt,"Hur räknas position med track, fart och tid?"
+060 Navigation,43,061 04 01 02,images_all/060_Q_043.jpg,060_Navigation_fragor_och_svar.txt,Varför korrigeras heading för vind?
+060 Navigation,44,061 04 01 03,images_all/060_Q_044.jpg,060_Navigation_fragor_och_svar.txt,Hur påverkar motvind groundspeed?
+060 Navigation,45,061 04 01 04,images_all/060_Q_045.jpg,060_Navigation_fragor_och_svar.txt,Vad är TAS?
+060 Navigation,46,061 04 01 04,images_all/060_Q_046.jpg,060_Navigation_fragor_och_svar.txt,Vad är GS?
+060 Navigation,47,061 04 01 05,images_all/060_Q_047.jpg,060_Navigation_fragor_och_svar.txt,Vad är groundspeed?
+060 Navigation,48,061 04 01 06,images_all/060_Q_048.jpg,060_Navigation_fragor_och_svar.txt,Hur beräknas ETA?
+060 Navigation,49,061 04 01 07,images_all/060_Q_049.jpg,060_Navigation_fragor_och_svar.txt,Vad används 1 på 60-regeln till?
+060 Navigation,50,061 04 01 08,images_all/060_Q_050.jpg,060_Navigation_fragor_och_svar.txt,Vad krävs för att uppskatta nuvarande position med DR?
+060 Navigation,51,061 04 02 01,images_all/060_Q_051.jpg,060_Navigation_fragor_och_svar.txt,Vad kan en navräknare användas till i vindtriangeln?
+060 Navigation,52,061 04 02 02,images_all/060_Q_052.jpg,060_Navigation_fragor_och_svar.txt,"Hur omvandlas 0,75 timmar till minuter?"
+060 Navigation,53,061 04 02 03,images_all/060_Q_053.jpg,060_Navigation_fragor_och_svar.txt,Vad är ungefär 100 km i nautiska mil?
+060 Navigation,54,061 04 02 04,images_all/060_Q_054.jpg,060_Navigation_fragor_och_svar.txt,Hur beräknas bränslebehov?
+060 Navigation,55,061 04 02 05,images_all/060_Q_055.jpg,060_Navigation_fragor_och_svar.txt,Vilken omvandling är korrekt för bränslevolym?
+060 Navigation,56,061 04 02 06,images_all/060_Q_056.jpg,060_Navigation_fragor_och_svar.txt,Varför kan TAS vara högre än CAS på höjd?
+060 Navigation,57,061 04 02 07,images_all/060_Q_057.jpg,060_Navigation_fragor_och_svar.txt,"Vad kan beräknas om TAS, GS, TH och TT är kända?"
+060 Navigation,58,061 04 02 08,images_all/060_Q_058.jpg,060_Navigation_fragor_och_svar.txt,Varför korrigeras true altitude för temperatur?
+060 Navigation,59,061 04 03 00,images_all/060_Q_059.jpg,060_Navigation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om vindtriangeln?
+060 Navigation,60,061 04 05 01,images_all/060_Q_060.jpg,060_Navigation_fragor_och_svar.txt,"Vilken formel används för tid, distans och hastighet?"
+060 Navigation,61,061 05 01 00,images_all/060_Q_061.jpg,060_Navigation_fragor_och_svar.txt,Hur kan position bestämmas visuellt under flygning?
+060 Navigation,62,061 05 03 01,images_all/060_Q_062.jpg,060_Navigation_fragor_och_svar.txt,Hur kan groundspeed revideras under flygning?
+060 Navigation,63,061 05 03 02,images_all/060_Q_063.jpg,060_Navigation_fragor_och_svar.txt,Vad är lämpligt om man flugit vilse?
+060 Navigation,64,061 05 03 03,images_all/060_Q_064.jpg,060_Navigation_fragor_och_svar.txt,Hur märks vindens påverkan under navigering?
+060 Navigation,65,061 05 03 04,images_all/060_Q_065.jpg,060_Navigation_fragor_och_svar.txt,Vad måste beaktas när ETA revideras?
+060 Navigation,66,061 05 04 00,images_all/060_Q_066.jpg,060_Navigation_fragor_och_svar.txt,Vad förs normalt in i en driftfärdplan?
+060 Navigation,67,062 01 02 01,images_all/060_Q_067.jpg,060_Navigation_fragor_och_svar.txt,Vilket påstående om antenner för radionavigation är korrekt?
+060 Navigation,68,062 01 03 04,images_all/060_Q_068.jpg,060_Navigation_fragor_och_svar.txt,Hur hänger frekvens och våglängd ihop?
+060 Navigation,69,062 02 01 01,images_all/060_Q_069.jpg,060_Navigation_fragor_och_svar.txt,Vad gör en radiopejl?
+060 Navigation,70,062 02 01 02,images_all/060_Q_070.jpg,060_Navigation_fragor_och_svar.txt,Vad betyder QDM?
+060 Navigation,71,062 02 01 02,images_all/060_Q_071.jpg,060_Navigation_fragor_och_svar.txt,Vad betyder QDR?
+060 Navigation,72,062 02 01 03,images_all/060_Q_072.jpg,060_Navigation_fragor_och_svar.txt,Vad begränsar ofta räckvidden för VHF-baserad radiopejl?
+060 Navigation,73,062 02 01 04,images_all/060_Q_073.jpg,060_Navigation_fragor_och_svar.txt,Vad kan påverka noggrannheten hos en radiopejl?
+060 Navigation,74,062 02 01 05,images_all/060_Q_074.jpg,060_Navigation_fragor_och_svar.txt,Vilken faktor kan försämra radiopejlens räckvidd eller noggrannhet?
+060 Navigation,75,062 02 02 01,images_all/060_Q_075.jpg,060_Navigation_fragor_och_svar.txt,Vad är NDB/ADF-systemets princip?
+060 Navigation,76,062 02 02 02,images_all/060_Q_076.jpg,060_Navigation_fragor_och_svar.txt,Vad är homing med ADF?
+060 Navigation,77,062 02 02 03,images_all/060_Q_077.jpg,060_Navigation_fragor_och_svar.txt,Vad påverkar NDB/ADF-räckvidden?
+060 Navigation,78,062 02 02 04,images_all/060_Q_078.jpg,060_Navigation_fragor_och_svar.txt,Vilket påstående om NDB/ADF-noggrannhet är korrekt?
+060 Navigation,79,062 02 02 05,images_all/060_Q_079.jpg,060_Navigation_fragor_och_svar.txt,Vilken är en typisk felkälla för ADF?
+060 Navigation,80,062 02 03 01,images_all/060_Q_080.jpg,060_Navigation_fragor_och_svar.txt,Vad är en VOR-radial?
+060 Navigation,81,062 02 03 01,images_all/060_Q_081.jpg,060_Navigation_fragor_och_svar.txt,Vad gör OBS på en VOR-indikator?
+060 Navigation,82,062 02 03 02,images_all/060_Q_082.jpg,060_Navigation_fragor_och_svar.txt,Vad visar en CDI i ett VOR-instrument?
+060 Navigation,83,062 02 03 03,images_all/060_Q_083.jpg,060_Navigation_fragor_och_svar.txt,Vad är huvudsaklig begränsning för VOR-räckvidd?
+060 Navigation,84,062 02 03 04,images_all/060_Q_084.jpg,060_Navigation_fragor_och_svar.txt,Vilket fel kan påverka VOR-navigation?
+060 Navigation,85,062 02 03 05,images_all/060_Q_085.jpg,060_Navigation_fragor_och_svar.txt,Vad kan försämra VOR-mottagningen?
+060 Navigation,86,062 02 04 01,images_all/060_Q_086.jpg,060_Navigation_fragor_och_svar.txt,Vad mäter DME?
+060 Navigation,87,062 02 04 02,images_all/060_Q_087.jpg,060_Navigation_fragor_och_svar.txt,Vad visar DME för avstånd?
+060 Navigation,88,062 02 04 03,images_all/060_Q_088.jpg,060_Navigation_fragor_och_svar.txt,Vad påverkar DME-räckvidd?
+060 Navigation,89,062 02 04 04,images_all/060_Q_089.jpg,060_Navigation_fragor_och_svar.txt,Vad betyder slant range i DME-sammanhang?
+060 Navigation,90,062 02 04 05,images_all/060_Q_090.jpg,060_Navigation_fragor_och_svar.txt,Vilken situation ger störst skillnad mellan DME och kartavstånd?
+060 Navigation,91,062 03 02 01,images_all/060_Q_091.jpg,060_Navigation_fragor_och_svar.txt,Hur fungerar primärradar i grunden?
+060 Navigation,92,062 03 02 02,images_all/060_Q_092.jpg,060_Navigation_fragor_och_svar.txt,Vilken begränsning har primärradar jämfört med sekundärradar?
+060 Navigation,93,062 03 04 01,images_all/060_Q_093.jpg,060_Navigation_fragor_och_svar.txt,Vad är principen för sekundärradar?
+060 Navigation,94,062 03 04 02,images_all/060_Q_094.jpg,060_Navigation_fragor_och_svar.txt,Vad gör Mode A?
+060 Navigation,95,062 03 04 02,images_all/060_Q_095.jpg,060_Navigation_fragor_och_svar.txt,Vad gör Mode C?
+060 Navigation,96,062 03 04 03,images_all/060_Q_096.jpg,060_Navigation_fragor_och_svar.txt,Vad innebär normalt SQUAWK IDENT?
+060 Navigation,97,062 06 01 01,images_all/060_Q_097.jpg,060_Navigation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om GNSS-positionering?
+060 Navigation,98,062 06 01 01,images_all/060_Q_098.jpg,060_Navigation_fragor_och_svar.txt,Vad är RAIM?
+060 Navigation,99,062 06 01 02,images_all/060_Q_099.jpg,060_Navigation_fragor_och_svar.txt,Vad är viktigt vid operativt handhavande av GNSS?
+060 Navigation,100,062 06 01 03,images_all/060_Q_100.jpg,060_Navigation_fragor_och_svar.txt,Vilken felkälla påverkar GNSS?
+060 Navigation,101,060 IMG 01,images_all/060_Q_101.jpg,060_Navigation_bildfragor.txt,Vilka linjer i bilden används för longitud?
+060 Navigation,102,060 IMG 02,images_all/060_Q_102.jpg,060_Navigation_bildfragor.txt,Vilken egenskap beskriver loxodromen bäst?
+060 Navigation,103,060 IMG 03,images_all/060_Q_103.jpg,060_Navigation_bildfragor.txt,I bilden ligger MN öster om TN. Hur påverkas magnetisk kurs jämfört med sann kurs?
+060 Navigation,104,060 IMG 04,images_all/060_Q_104.jpg,060_Navigation_bildfragor.txt,"Använd tabellen: TT 025, variation W12 och deviation +3. Vad blir CT?"
+060 Navigation,105,060 IMG 05,images_all/060_Q_105.jpg,060_Navigation_bildfragor.txt,Vilken typ av bäring mäts från flygplanets längdaxel i bilden?
+060 Navigation,106,060 IMG 06,images_all/060_Q_106.jpg,060_Navigation_bildfragor.txt,Vilket värde saknas i den maskerade gula rutan för 1 minut bågavstånd?
+060 Navigation,107,060 IMG 07,images_all/060_Q_107.jpg,060_Navigation_bildfragor.txt,"Om Sverige har sommartid och lokal tid är 14:30, vad blir UTC?"
+060 Navigation,108,060 IMG 08,images_all/060_Q_108.jpg,060_Navigation_bildfragor.txt,Vilken kompassregel hör till svängfel på nordlig respektive sydlig kurs?
+090 Kommunikation,1,091 01 01 00,images_all/090_Q_001.jpg,090_Kommunikation_fragor_och_svar.txt,Vad är en radiostation i flygsammanhang?
+090 Kommunikation,2,091 01 02 00,images_all/090_Q_002.jpg,090_Kommunikation_fragor_och_svar.txt,Vad omfattar ATS-tjänster?
+090 Kommunikation,3,091 01 03 00,images_all/090_Q_003.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken Q-kod används för tryck som ger höjd över havet?
+090 Kommunikation,4,091 01 03 00,images_all/090_Q_004.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken Q-kod anger magnetisk kurs till stationen?
+090 Kommunikation,5,091 01 03 00,images_all/090_Q_005.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken Q-kod anger magnetisk bäring från stationen?
+090 Kommunikation,6,091 01 04 00,images_all/090_Q_006.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken meddelandetyp har högst företräde?
+090 Kommunikation,7,091 02 01 00,images_all/090_Q_007.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket ICAO-ord används för bokstaven A?
+090 Kommunikation,8,091 02 01 00,images_all/090_Q_008.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket ICAO-ord används för bokstaven B?
+090 Kommunikation,9,091 02 01 00,images_all/090_Q_009.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket ICAO-ord används för bokstaven C?
+090 Kommunikation,10,091 02 02 00,images_all/090_Q_010.jpg,090_Kommunikation_fragor_och_svar.txt,Hur ska siffror sändas vid sämre förbindelse på svenska?
+090 Kommunikation,11,091 02 02 00,images_all/090_Q_011.jpg,090_Kommunikation_fragor_och_svar.txt,Hur ska en frekvens normalt sändas?
+090 Kommunikation,12,091 02 03 00,images_all/090_Q_012.jpg,090_Kommunikation_fragor_och_svar.txt,Hur anges tid i radiotrafik?
+090 Kommunikation,13,091 02 04 00,images_all/090_Q_013.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om sändningsteknik?
+090 Kommunikation,14,091 02 05 00,images_all/090_Q_014.jpg,090_Kommunikation_fragor_och_svar.txt,Vilka flygfaser omfattas av normal VFR-fraseologi?
+090 Kommunikation,15,091 02 05 00,images_all/090_Q_015.jpg,090_Kommunikation_fragor_och_svar.txt,Vad bör en positionsrapport normalt innehålla?
+090 Kommunikation,16,091 02 05 00,images_all/090_Q_016.jpg,090_Kommunikation_fragor_och_svar.txt,Vad ingår typiskt i en begäran om klarering?
+090 Kommunikation,17,091 02 05 00,images_all/090_Q_017.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om motläsning av klarering?
+090 Kommunikation,18,091 02 06 00,images_all/090_Q_018.jpg,090_Kommunikation_fragor_och_svar.txt,Hur upprättas radioförbindelse normalt?
+090 Kommunikation,19,091 02 06 00,images_all/090_Q_019.jpg,090_Kommunikation_fragor_och_svar.txt,När får anropssignaler normalt förkortas?
+090 Kommunikation,20,091 02 07 00,images_all/090_Q_020.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken fraseologi används typiskt vid frekvensskifte?
+090 Kommunikation,21,091 02 08 00,images_all/090_Q_021.jpg,090_Kommunikation_fragor_och_svar.txt,Hur länge får provsändning enligt TSFS normalt pågå?
+090 Kommunikation,22,091 02 08 00,images_all/090_Q_022.jpg,090_Kommunikation_fragor_och_svar.txt,Vad betyder läslighet 5?
+090 Kommunikation,23,091 02 09 00,images_all/090_Q_023.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken information ska normalt motläsas?
+090 Kommunikation,24,091 03 01 00,images_all/090_Q_024.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om flygplatsväder?
+090 Kommunikation,25,091 03 02 00,images_all/090_Q_025.jpg,090_Kommunikation_fragor_och_svar.txt,Vad är ATIS?
+090 Kommunikation,26,091 03 02 00,images_all/090_Q_026.jpg,090_Kommunikation_fragor_och_svar.txt,Hur identifieras ATIS-uppdateringar?
+090 Kommunikation,27,091 03 02 00,images_all/090_Q_027.jpg,090_Kommunikation_fragor_och_svar.txt,Vad är VOLMET?
+090 Kommunikation,28,091 03 02 00,images_all/090_Q_028.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om SIGMET?
+090 Kommunikation,29,091 04 01 00,images_all/090_Q_029.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken transponderkod används vid radiobortfall?
+090 Kommunikation,30,091 04 01 00,images_all/090_Q_030.jpg,090_Kommunikation_fragor_och_svar.txt,Vad är blindsändning?
+090 Kommunikation,31,091 04 01 00,images_all/090_Q_031.jpg,090_Kommunikation_fragor_och_svar.txt,Vad innebär blindsändning vid radioproblem?
+090 Kommunikation,32,091 05 01 00,images_all/090_Q_032.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken signal föregår nödförbindelse?
+090 Kommunikation,33,091 05 01 00,images_all/090_Q_033.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken transponderkod används vid nödtillfälle?
+090 Kommunikation,34,091 05 01 00,images_all/090_Q_034.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken är internationell VHF-nödfrekvens?
+090 Kommunikation,35,091 05 01 00,images_all/090_Q_035.jpg,090_Kommunikation_fragor_och_svar.txt,Hur definieras nödtillfälle?
+090 Kommunikation,36,091 05 01 00,images_all/090_Q_036.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om nödmeddelande?
+090 Kommunikation,37,091 05 01 00,images_all/090_Q_037.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken trafik har företräde framför all annan radiotrafik?
+090 Kommunikation,38,091 05 02 00,images_all/090_Q_038.jpg,090_Kommunikation_fragor_och_svar.txt,Hur definieras iltillfälle?
+090 Kommunikation,39,091 05 02 00,images_all/090_Q_039.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken signal föregår ilförbindelse?
+090 Kommunikation,40,091 05 02 00,images_all/090_Q_040.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken signal används för ilmeddelande?
+090 Kommunikation,41,091 06 01 00,images_all/090_Q_041.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket frekvensområde används typiskt för civil flygradio på VHF?
+090 Kommunikation,42,091 06 01 00,images_all/090_Q_042.jpg,090_Kommunikation_fragor_och_svar.txt,Vad kännetecknar VHF-radiovågor?
+090 Kommunikation,43,TSFS 2019:36 2:1,images_all/090_Q_043.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket alternativ är mest fullständigt korrekt om trafikdisciplin enligt TSFS?
+090 Kommunikation,44,TSFS 2019:36 2:13,images_all/090_Q_044.jpg,090_Kommunikation_fragor_och_svar.txt,Vilket språk ska användas efter första anropet enligt TSFS?
+090 Kommunikation,45,TSFS 2019:36 2:14,images_all/090_Q_045.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken svensk bokstavering anger TSFS för Å?
+090 Kommunikation,46,TSFS 2019:36 2:14,images_all/090_Q_046.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken svensk bokstavering anger TSFS för Ä?
+090 Kommunikation,47,TSFS 2019:36 2:14,images_all/090_Q_047.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken svensk bokstavering anger TSFS för Ö?
+090 Kommunikation,48,TSFS 2019:36 2:26,images_all/090_Q_048.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken frekvens anges för interpilot air-to-air communication?
+090 Kommunikation,49,TSFS 2019:36 2:5,images_all/090_Q_049.jpg,090_Kommunikation_fragor_och_svar.txt,När får andra anropet göras om ATS inte svarar?
+090 Kommunikation,50,TSFS 2019:36 3:6,images_all/090_Q_050.jpg,090_Kommunikation_fragor_och_svar.txt,Hur anges höjd med standardinställning?
+090 Kommunikation,51,TSFS 2019:36 4:100,images_all/090_Q_051.jpg,090_Kommunikation_fragor_och_svar.txt,Vad betyder TRANSPONDERHÖJD TILL?
+090 Kommunikation,52,TSFS 2019:36 4:106,images_all/090_Q_052.jpg,090_Kommunikation_fragor_och_svar.txt,Vad ska enligt TSFS alltid motläsas?
+090 Kommunikation,53,TSFS 2019:36 4:15,images_all/090_Q_053.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken ordning ska en villkorlig klarering ha?
+090 Kommunikation,54,TSFS 2019:36 4:17,images_all/090_Q_054.jpg,090_Kommunikation_fragor_och_svar.txt,Vad betyder KVARLIGG FREKVENSEN?
+090 Kommunikation,55,TSFS 2019:36 4:42,images_all/090_Q_055.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken fras används för att begära taxning?
+090 Kommunikation,56,TSFS 2019:36 4:43,images_all/090_Q_056.jpg,090_Kommunikation_fragor_och_svar.txt,Vad betyder HÅLL FÖRE BANA 21?
+090 Kommunikation,57,TSFS 2019:36 4:46,images_all/090_Q_057.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken svensk fras motsvarar cleared for take-off?
+090 Kommunikation,58,TSFS 2019:36 4:46,images_all/090_Q_058.jpg,090_Kommunikation_fragor_och_svar.txt,Vad betyder AVBRYT STARTEN?
+090 Kommunikation,59,TSFS 2019:36 4:52,images_all/090_Q_059.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken svensk fras motsvarar cleared to land?
+090 Kommunikation,60,TSFS 2019:36 4:54,images_all/090_Q_060.jpg,090_Kommunikation_fragor_och_svar.txt,Vad betyder GO AROUND på svenska?
+090 Kommunikation,61,TSFS 2019:36 4:56,images_all/090_Q_061.jpg,090_Kommunikation_fragor_och_svar.txt,När får frasen HAR LÄMNAT BANAN användas?
+090 Kommunikation,62,TSFS 2019:36 4:69,images_all/090_Q_062.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken fras kan ATS använda om radiobortfall misstänks?
+090 Kommunikation,63,TSFS 2019:36 4:92,images_all/090_Q_063.jpg,090_Kommunikation_fragor_och_svar.txt,Vilken fras används för att instruera transponderkod?
+090 Kommunikation,64,TSFS 2019:36 9:10,images_all/090_Q_064.jpg,090_Kommunikation_fragor_och_svar.txt,Vad betyder FEW i molnrapportering?
+090 Kommunikation,65,TSFS 2019:36 9:11,images_all/090_Q_065.jpg,090_Kommunikation_fragor_och_svar.txt,Hur ska CAVOK läsas enligt TSFS?
+090 Kommunikation,66,TSFS 2019:36 9:14,images_all/090_Q_066.jpg,090_Kommunikation_fragor_och_svar.txt,Hur läses QNH på svenska enligt TSFS?
+090 Kommunikation,67,TSFS 2019:36 9:16,images_all/090_Q_067.jpg,090_Kommunikation_fragor_och_svar.txt,Vad betyder NOSIG?
+090 Kommunikation,68,TSFS 2019:36 9:6,images_all/090_Q_068.jpg,090_Kommunikation_fragor_och_svar.txt,Hur ska vinduppgift i väderuppläsning inledas?
